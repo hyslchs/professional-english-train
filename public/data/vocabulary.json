@@ -1,0 +1,3083 @@
+{
+  "vocabulary": [
+    {
+      "term": "bibliographic coupling",
+      "zh_tw": "書目耦合",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "兩篇文獻因引用相同參考文獻而形成關聯；共同引用的參考文獻越多，耦合強度通常越高。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館編目園地：書目耦合",
+          "url": "https://catweb.ncl.edu.tw/QandA/page/23718",
+          "evidence": "以 bibliographic coupling 書目耦合為題，說明共同參考文獻與耦合強度。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Bibliographic coupling"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "bibliotherapy",
+      "zh_tw": "書目療法",
+      "aliases_zh_tw": [
+        "閱讀療法",
+        "讀書治療"
+      ],
+      "definition_zh_tw": "透過適當閱讀素材及閱讀互動，協助讀者理解情緒、紓解困擾與調適生活。",
+      "reference_sources": [
+        {
+          "title": "臺大出版中心：書目療法與情緒療癒",
+          "url": "https://press.ntu.edu.tw/tw/publish/show.php?act=book&field=bser&refer=ntup_book00745",
+          "evidence": "明列 bibliotherapy 及書目療法，並列閱讀療法、讀書治療等別名。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Bibliotherapy"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "data curation",
+      "zh_tw": "資料庋用",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "在資料生命週期中持續整理、維護與保存資料，確保資料可被理解、取用及再利用。",
+      "reference_sources": [
+        {
+          "title": "東吳大學圖書館館訊第52期",
+          "url": "https://www.lib.scu.edu.tw/pub/cont52/08.pdf",
+          "evidence": "館訊明列資料庋用（Data Curation）。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "I-4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Data curation"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "Discounted Cumulative Gain (DCG)",
+      "zh_tw": "折扣累積增益",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "評估檢索或推薦排序品質的指標，累加各結果的相關性增益，並依排名位置折減權重。",
+      "reference_sources": [
+        {
+          "title": "臺灣海洋大學資訊工程碩士論文",
+          "url": "https://www.db.cs.ntou.edu.tw/DBLS/Filesystem/Upload_file/thesis/DB20240490.pdf",
+          "evidence": "第30頁將 DCG 明列為折扣累積增益，並提供依位置及相關性計算的公式。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Discounted Cumulative Gain (DCG)"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "faceted analysis",
+      "zh_tw": "層面分析",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "將主題拆成可分別分析及組合的層面，例如對象、活動、時間與地點，以建立知識組織結構。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館館刊：兒童資訊組織研究",
+          "url": "https://teric.naer.edu.tw/wSite/DoDownload?fileName=1475136014365&format=pdf&xmlId=1889759",
+          "evidence": "論文使用層面分析（faceted analysis）建立兒童知識樹。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.6",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Faceted analysis"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "FAIR principles",
+      "zh_tw": "FAIR 原則",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究資料應可查找、可取得、可交換及可再用，讓資料能被發現、存取、整合與再利用。",
+      "reference_sources": [
+        {
+          "title": "臺大學術典藏：從FAIR原則檢視資料再用",
+          "url": "https://scholars.lib.ntu.edu.tw/entities/project/28e86002-9fa1-4fef-9534-d821894ba6eb",
+          "evidence": "臺大圖資研究計畫使用 FAIR 原則，研究資料獲取、品質與再用。"
+        },
+        {
+          "title": "政府資料開放平臺：資料品質訓練",
+          "url": "https://data.gov.tw/courses/135787",
+          "evidence": "進階資料品質課程使用 FAIR 原則，附 FAIR 說明教材。"
+        },
+        {
+          "title": "臺大圖書館：研究資料管理學習指引",
+          "url": "https://www.lib.ntu.edu.tw/events/2022_RDMLA_class/",
+          "evidence": "明列可查找、可取得、可交換、可再用（Findable, Accessible, Interoperable, Reusable, FAIR）。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "The \"FAIR\" principles of research data curation"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "information literacy",
+      "zh_tw": "資訊素養",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "辨識資訊需求，有效搜尋、評估與運用資訊，並理解資訊使用涉及的倫理與責任。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書館《大學圖書館》：資訊素養與倫理",
+          "url": "https://univj.lib.ntu.edu.tw/?page=1&q=taxonomy%2Fterm%2F763",
+          "evidence": "中英文題名及關鍵字對照 information literacy 與資訊素養。"
+        }
+      ],
+      "source_years": [
+        110,
+        111
+      ],
+      "source_type": [
+        "term_definition",
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.7",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Information literacy"
+        },
+        {
+          "year": 110,
+          "question": "II-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "information literacy"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "Information Search Process (ISP)",
+      "zh_tw": "資訊搜尋歷程",
+      "aliases_zh_tw": [
+        "資訊搜尋歷程模式"
+      ],
+      "definition_zh_tw": "Kuhlthau 的資訊搜尋模式，描述使用者在搜尋各階段的情感、認知與行動變化。",
+      "reference_sources": [
+        {
+          "title": "國教院辭書：資訊搜尋歷程模式",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=資訊搜尋歷程模式",
+          "evidence": "英文 information search process (ISP) model；說明 Kuhlthau 模式及使用者觀點。"
+        }
+      ],
+      "source_years": [
+        110,
+        111
+      ],
+      "source_type": [
+        "term_definition",
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "1.5",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Information Search Process (ISP)"
+        },
+        {
+          "year": 110,
+          "question": "II-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "Information Search Process (ISP)"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "ISBN",
+      "zh_tw": "國際標準書號",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "用來識別特定出版品及其版本、形式的標準編號，便於出版流通與書目管理。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館：ISBN 編目欄位",
+          "url": "https://catapp.ncl.edu.tw/old_catweb/2-1-6-010.htm",
+          "evidence": "010 欄位明列國際標準書號（ISBN），說明用於圖書出版及圖書館資料處理。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "I-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "ISBN"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "metadata",
+      "zh_tw": "詮釋資料",
+      "aliases_zh_tw": [
+        "元資料"
+      ],
+      "definition_zh_tw": "描述資訊資源的結構化資料，協助辨識、組織、檢索、取用及管理資源。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館：電子書 ISBN 申請作業原則",
+          "url": "https://isbn.ncl.edu.tw/NEW_ISBNNet/main_ProcessMenuItems.php?Pact=FileDownLoad&Pfld=Ffile&Pval=274",
+          "evidence": "作業原則使用詮釋資料（metadata）。"
+        },
+        {
+          "title": "臺大圖書資訊學刊：資訊的組織與擷取",
+          "url": "https://jlis.lis.ntu.edu.tw/html/j12-6.html",
+          "evidence": "以元資料描述用於描述資料的資料，保留為臺灣文獻別名。"
+        }
+      ],
+      "source_years": [
+        109,
+        110,
+        113,
+        114
+      ],
+      "source_type": [
+        "term_definition",
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "I-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Metadata"
+        },
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "metadata"
+        },
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "metadata"
+        },
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "Metadata"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "operational definition",
+      "zh_tw": "操作型定義",
+      "aliases_zh_tw": [
+        "操作性定義"
+      ],
+      "definition_zh_tw": "以可觀察、可測量或可重複執行的操作程序，具體界定研究概念或變項。",
+      "reference_sources": [
+        {
+          "title": "高雄醫學大學：心理實驗法教材",
+          "url": "https://wiki.kmu.edu.tw/index.php/心理實驗法第十一講：Experimental_paradigms",
+          "evidence": "教材以 Operational definition 與操作型定義說明測量或操弄概念。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "1.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Operational definition"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "PDA",
+      "zh_tw": "讀者需求導向選購",
+      "aliases_zh_tw": [
+        "讀者導向採購"
+      ],
+      "definition_zh_tw": "依讀者對電子書等資源的實際使用或需求決定採購，讓館藏選購更貼近讀者需要。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書館：您看電子書，TAEBDC幫您買書",
+          "url": "https://www.lib.ntu.edu.tw/node/1773",
+          "evidence": "明列讀者需求導向選購模式（Patron-Driven Acquisitions，PDA），依使用量決定採購書單。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "I-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "PDA (acquisition related term)"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "Readers' advisory",
+      "zh_tw": "讀者諮詢服務",
+      "aliases_zh_tw": [
+        "讀者諮詢顧問服務",
+        "讀者顧問服務"
+      ],
+      "definition_zh_tw": "依讀者的閱讀興趣、需要與經驗提供選書及閱讀建議，協助讀者找到合適的閱讀素材。",
+      "reference_sources": [
+        {
+          "title": "國教院：圖書館學學術名詞",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "第147頁對照 readers' advisory 與讀者諮詢服務。"
+        },
+        {
+          "title": "臺大圖資學刊：讀者諮詢顧問服務研究",
+          "url": "https://jlis.lis.ntu.edu.tw/html/j27-2.html",
+          "evidence": "中英文題名及摘要使用讀者諮詢顧問服務與 Readers' Advisory Services。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "1.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Readers' advisory"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "relevance",
+      "zh_tw": "相關性",
+      "aliases_zh_tw": [
+        "相關",
+        "相關度"
+      ],
+      "definition_zh_tw": "資訊資源與查詢、任務或使用者需求相符且有用的程度，會隨使用情境而改變。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書資訊學刊：資訊檢索中相關概念之發展",
+          "url": "https://jlis.lis.ntu.edu.tw/html/j12-3.html",
+          "evidence": "中英文題名對照 Relevance 與相關，討論定義及相關判斷。"
+        },
+        {
+          "title": "政府資料開放平臺：再利用性指標",
+          "url": "https://data.gov.tw/about/doc?chapter=64&doc=12",
+          "evidence": "將 Relevance 譯為相關性，指內容與目的或任務的實質關聯程度。"
+        }
+      ],
+      "source_years": [
+        111,
+        113,
+        115
+      ],
+      "source_type": [
+        "term_definition",
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "1.4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Relevance"
+        },
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "relevance"
+        },
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "relevance"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "subject analysis",
+      "zh_tw": "主題分析",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "辨識文獻的核心主題概念，將其轉成分類號、主題詞或其他索引表示，協助檢索。",
+      "reference_sources": [
+        {
+          "title": "國教院辭書：主題分析",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=主題分析",
+          "evidence": "說明文獻內容的主題辨識及主題轉譯，英文 Subject Analysis。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "term_definition"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "1.3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "term_definition",
+          "original_term": "Subject analysis"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "academic library",
+      "zh_tw": "學術圖書館",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "以支援高等教育、學術研究與學習為主要任務的圖書館。",
+      "reference_sources": [
+        {
+          "title": "政大圖資與檔案學刊：臺灣學術圖書館史",
+          "url": "https://jila.lib.nccu.edu.tw/2007-60_63/no63/2571/",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 academic library 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "academic libraries"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "access",
+      "zh_tw": "近用",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "取得及利用資訊資源的機會或途徑。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：access；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        109,
+        110,
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "access"
+        },
+        {
+          "year": 110,
+          "question": "II-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "access"
+        },
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "access"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "accessibility",
+      "zh_tw": "可及性",
+      "definition_zh_tw": "資源能被不同條件與需求的使用者取得及使用的程度。",
+      "aliases_zh_tw": [],
+      "reference_sources": [
+        {
+          "title": "師大特殊教育研究學刊：資訊可及性",
+          "url": "https://bse.spe.ntnu.edu.tw/BSE/contents/journal-list-issues.jsp?dir1=0&dir3=26",
+          "evidence": "核對英文 accessibility 與臺灣中文用法；解釋依文章脈絡撰寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "accessibility"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "administrative metadata",
+      "zh_tw": "行政性詮釋資料",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "支援資源管理的資訊，例如產生時間、權利與取用限制。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：行政性詮釋資料",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%A1%8C%E6%94%BF%E6%80%A7%E8%A9%AE%E9%87%8B%E8%B3%87%E6%96%99",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 administrative metadata 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "different types of metadata elements (descriptive, administrative, technical, use, and preservation)",
+          "source_note": "原題以並列形容詞省略重複的 metadata；此詞依該原句補全，並非額外出題的名詞解釋。"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "artificial intelligence",
+      "zh_tw": "人工智慧",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "使電腦系統執行推理、學習、辨識及問題解決等通常涉及智慧的任務之技術。",
+      "reference_sources": [
+        {
+          "title": "臺大 IoX 創新研究中心：關於",
+          "url": "https://iox.ntu.edu.tw/about",
+          "evidence": "明列人工智慧（Artificial Intelligence，AI）。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "artificial intelligence"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "authority",
+      "zh_tw": "權威",
+      "definition_zh_tw": "資訊來源在特定情境中受到信任的地位，須依資訊需求與專業背景評估。",
+      "aliases_zh_tw": [],
+      "reference_sources": [
+        {
+          "title": "師大圖書館學與資訊科學：資訊素養框架",
+          "url": "https://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/download/742/pdf",
+          "evidence": "核對英文 authority 與臺灣中文用法；解釋依文章脈絡撰寫。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "Authority"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "bibliometrics",
+      "zh_tw": "書目計量學",
+      "aliases_zh_tw": [
+        "文獻計量學"
+      ],
+      "definition_zh_tw": "以數量及統計方法分析文獻產出、引用與分布，研究學術傳播及知識發展。",
+      "reference_sources": [
+        {
+          "title": "臺大圖資系：書目計量學教材",
+          "url": "https://scholars.lib.ntu.edu.tw/bitstreams/a4ab74bb-31da-496b-9fb3-419d24b6e6c5/download",
+          "evidence": "陳光華圖資系教材以書目計量學為課名。"
+        },
+        {
+          "title": "淡江大學：資訊計量學與網路計量學",
+          "url": "https://teacher.tku.edu.tw/StfFdDtl.aspx?tid=23740",
+          "evidence": "關鍵字對照 bibliometrics 與文獻計量學。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "bibliometrics"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "bottom-up design",
+      "zh_tw": "由下而上設計",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "先分析內容及基本單元，再將其整合成較高層次架構。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書資訊學刊：學術文獻主題分類體系",
+          "url": "https://jlis.lis.ntu.edu.tw/files/journal/j16-8.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 bottom-up design 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "bottom-up design"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "citizen science",
+      "zh_tw": "公民科學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "由一般民眾參與資料蒐集、分析或其他研究活動，與專業研究者合作產生科學知識。",
+      "reference_sources": [
+        {
+          "title": "國科會科技大觀園：公民科學與生物多樣性",
+          "url": "https://scitechvista.nat.gov.tw/Article/C000009/detail?ID=b9a25148-6924-4189-b0ec-eb39f303a0eb",
+          "evidence": "明列公民科學（citizen science），介紹生物多樣性研究參與。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "Citizen science"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "classification scheme",
+      "zh_tw": "分類架構",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "依規則安排類別與關係，用來組織知識或資訊資源。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館：學術名詞學科分類架構",
+          "url": "https://catweb.ncl.edu.tw/literature/page/30130",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 classification scheme 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109,
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "classification schemes"
+        },
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "categorization schemes"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "confidence intervals",
+      "zh_tw": "信賴區間",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "依樣本及指定信賴水準建立的參數估計區間；同樣程序重複抽樣時，區間以該比例涵蓋真實參數。",
+      "reference_sources": [
+        {
+          "title": "臺大數學系：Confidence Interval",
+          "url": "https://www.math.ntu.edu.tw/~hchen/Teach/confidence.html",
+          "evidence": "中英文使用信賴區間，解釋重複抽樣下的涵蓋比例。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "confidence intervals"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "correlation",
+      "zh_tw": "相關",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "描述變項一起變化的關係；相關本身不表示因果關係。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：相關係數",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E7%9B%B8%E9%97%9C%E4%BF%82%E6%95%B8",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 correlation 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "correlation"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "data breach",
+      "zh_tw": "資料外洩",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "資料被未經授權的人取得或揭露的資安事件。",
+      "reference_sources": [
+        {
+          "title": "國家資通安全研究院：政府機關資安威脅與防護重點",
+          "url": "https://download.nics.nat.gov.tw/api/v4/file-service/UploadFile/attachfilepromo/議題三：政府機關資安威脅與防護重點.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 data breach 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "data breaches"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "database",
+      "zh_tw": "資料庫",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "有組織地儲存資料，供查詢、管理及使用的資料集合。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：database；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "database"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "descriptive metadata",
+      "zh_tw": "描述性詮釋資料",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "描述資源的名稱、作者、主題等特徵，協助辨識與探索。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：詮釋資料",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%A9%AE%E9%87%8B%E8%B3%87%E6%96%99",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 descriptive metadata 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "descriptive metadata"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "digital engagement",
+      "zh_tw": "數位參與",
+      "definition_zh_tw": "透過數位工具參與資訊活動及社會互動。",
+      "aliases_zh_tw": [],
+      "reference_sources": [
+        {
+          "title": "陽明交通大學典藏：數位參與和社會包容",
+          "url": "https://ir.lib.nycu.edu.tw/bitstream/11536/136906/1/1680-8428-150701.pdf",
+          "evidence": "核對英文 digital engagement 與臺灣中文用法；解釋依文章脈絡撰寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "digital engagement"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "documentation",
+      "zh_tw": "文獻學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "在本題的資訊科學脈絡中，指文獻蒐集、組織、處理與傳遞的研究及實務。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：美國文獻學會",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E7%BE%8E%E5%9C%8B%E6%96%87%E7%8D%BB%E5%AD%B8%E6%9C%83",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 documentation 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "documentation"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "double-barreled question",
+      "zh_tw": "雙管問題",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "在一個題目中同時詢問兩個或以上概念，卻要求單一回答。",
+      "reference_sources": [
+        {
+          "title": "中央大學學位論文：雙管問題",
+          "url": "https://ir.lib.ncu.edu.tw/handle/987654321/80038?locale=en-US",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 double-barreled question 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "double-barreled question"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "effect size",
+      "zh_tw": "效果量",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "表示差異或關聯的程度，協助判斷結果在實務上有多大影響。",
+      "reference_sources": [
+        {
+          "title": "教育部臺灣學術倫理教育資源中心：p值操弄",
+          "url": "https://ethics-p.moe.edu.tw/static/ethics/u113/p07.html",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 effect size 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "effect sizes"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "exploratory research",
+      "zh_tw": "探索性研究",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "在問題尚不明確時增進理解，並為後續研究形成方向的研究。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書資訊學刊：探索性研究",
+          "url": "https://jlis.lis.ntu.edu.tw/html/j49-1.html",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 exploratory research 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "Exploratory research"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "focus groups",
+      "zh_tw": "焦點團體",
+      "aliases_zh_tw": [
+        "焦點群體"
+      ],
+      "definition_zh_tw": "由主持人引導小群體針對特定議題討論，利用成員互動蒐集觀點與經驗的質性方法。",
+      "reference_sources": [
+        {
+          "title": "法務部研究報告：焦點團體法",
+          "url": "https://www.cprc.moj.gov.tw/media/8696/71215145756207.pdf?mediaDL=true",
+          "evidence": "研究方法章節將 Focus Groups 譯作焦點團體法，描述引導討論與成員互動。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "focus groups"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "functional requirements",
+      "zh_tw": "功能需求",
+      "definition_zh_tw": "系統為達成使用者任務必須提供的功能與行為。",
+      "aliases_zh_tw": [],
+      "reference_sources": [
+        {
+          "title": "屏東大學軟體工程教材：需求",
+          "url": "https://junwu.nptu.edu.tw/dokuwiki/doku.php?id=se2021%3Arequirement",
+          "evidence": "核對英文 functional requirements 與臺灣中文用法；解釋依文章脈絡撰寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "functional requirements"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "indexing",
+      "zh_tw": "索引法",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "選取及組織指向資源的檢索標目，協助使用者找到內容。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：索引與索引法",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E7%B4%A2%E5%BC%95%E8%88%87%E7%B4%A2%E5%BC%95%E6%B3%95",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 indexing 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "indexing"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "indicator",
+      "zh_tw": "指標",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "用來衡量現象或追蹤目標進展的觀察項目。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：indicator；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "indicators"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "information architecture",
+      "zh_tw": "資訊架構",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "安排資訊的組織、分類、標示與導覽結構，讓使用者容易理解並找到需要的內容。",
+      "reference_sources": [
+        {
+          "title": "政府網站營運交流平台：資訊架構",
+          "url": "https://www.webguide.nat.gov.tw/article/570/show",
+          "evidence": "文章明列資訊架構（Information Architecture，IA）。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "information architecture"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "information behavior",
+      "zh_tw": "資訊行為",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "人與資訊互動的各種行為，涵蓋尋求、取得與使用資訊。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：資訊行為",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%B3%87%E8%A8%8A%E8%A1%8C%E7%82%BA",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information behavior 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "information behavior"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "information discovery",
+      "zh_tw": "資訊探索",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "找出可用資訊資源的過程。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：information discovery；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "information discovery"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "information industry",
+      "zh_tw": "資訊產業",
+      "aliases_zh_tw": [
+        "資訊工業"
+      ],
+      "definition_zh_tw": "從事資訊產品、系統與服務的產業。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：information industry；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information industry"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "information need",
+      "zh_tw": "資訊需求",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "為理解問題或完成任務而需要補充資訊的狀態。",
+      "reference_sources": [
+        {
+          "title": "臺大校友雙月刊：資訊行為研究",
+          "url": "https://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8502",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information need 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "information need"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "information network",
+      "zh_tw": "資訊網路",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "連結資訊資源、系統與使用者以交換資訊的網路。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：information network；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information networks"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "information retrieval",
+      "zh_tw": "資訊檢索",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "從資訊集合中，依查詢及需求找出相關資訊資源的過程與系統技術。",
+      "reference_sources": [
+        {
+          "title": "臺大圖資學刊：資訊檢索中相關概念",
+          "url": "https://jlis.lis.ntu.edu.tw/html/j12-3.html",
+          "evidence": "中英文題名及關鍵字對照 Information Retrieval 與資訊檢索。"
+        }
+      ],
+      "source_years": [
+        109,
+        111,
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information retrieval"
+        },
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "IR systems"
+        },
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "information retrieval"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "information retrieval system",
+      "zh_tw": "資訊檢索系統",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "依使用者的查詢條件找出相關資訊或文件的系統。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：搜尋引擎",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information retrieval system 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        111,
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information retrieval systems"
+        },
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "IR systems"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "information science",
+      "zh_tw": "資訊科學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究資訊的性質、傳播、組織、檢索與利用的學科。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：資訊科學",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%B3%87%E8%A8%8A%E7%A7%91%E5%AD%B8",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information science 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        112,
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "Information science"
+        },
+        {
+          "year": 112,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "information science"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "information seeking",
+      "zh_tw": "資訊尋求",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "為滿足資訊需求而進行的尋找及取得資訊活動。",
+      "reference_sources": [
+        {
+          "title": "臺大校友雙月刊：資訊行為研究",
+          "url": "https://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8502",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information seeking 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        110,
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "seeking information"
+        },
+        {
+          "year": 112,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "information-seeking"
+        },
+        {
+          "year": 110,
+          "question": "II-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "information seeking"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "information system",
+      "zh_tw": "資訊系統",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "結合資料、軟硬體與作業流程以處理及提供資訊的系統。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：資訊系統",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information system 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information systems"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "information technology",
+      "zh_tw": "資訊科技",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "運用電腦與通訊設備進行資訊處理、儲存及傳遞的技術。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：資訊科技",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information technology 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "information technologies"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "information use",
+      "zh_tw": "資訊使用",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "將取得的資訊運用於理解、判斷、決策或完成任務。",
+      "reference_sources": [
+        {
+          "title": "臺大校友雙月刊：資訊行為研究",
+          "url": "https://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8502",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 information use 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "information seeking and use"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "informetrics",
+      "zh_tw": "資訊計量學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究資訊的數量特性與規律，涵蓋文獻、資訊產製、傳播及使用等現象。",
+      "reference_sources": [
+        {
+          "title": "師大圖書資訊學刊：論資訊計量學",
+          "url": "https://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/viewFile/443/443",
+          "evidence": "蔡明月論文中英文題名為論資訊計量學／An Introduction to Informetrics。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "informetrics"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "intellectual freedom",
+      "zh_tw": "知識自由",
+      "aliases_zh_tw": [
+        "思想自由"
+      ],
+      "definition_zh_tw": "個人有形成與表達觀點，以及不受不當限制取用資訊和思想的自由。",
+      "reference_sources": [
+        {
+          "title": "輔仁大學圖資教材：禁書之探究",
+          "url": "https://web.lins.fju.edu.tw/mao/pl/censor.htm",
+          "evidence": "明列知識自由（Intellectual Freedom），亦稱思想自由。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "Intellectual freedom"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "interdisciplinarity",
+      "zh_tw": "跨學科性",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "整合不同學科知識及方法以探討問題的特性或取向。",
+      "reference_sources": [
+        {
+          "title": "台灣聯合大學系統：跨學科研究",
+          "url": "https://www.ust.edu.tw/Important_News_Detailed.aspx?GUID=2a2a9adf-3026-438d-a101-ad11fdef7c6f",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 interdisciplinarity 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "2.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "Interdisciplinarity"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "interoperability",
+      "zh_tw": "互通性",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "不同系統能交換資料並正確理解及使用交換內容的能力。",
+      "reference_sources": [
+        {
+          "title": "國家圖書館／臺大圖資陳雪華：Dublin Core",
+          "url": "https://catweb.ncl.edu.tw/datas/3-1-009-3.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 interoperability 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "interoperable"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "interval",
+      "zh_tw": "等距（尺度）",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "數值間距相等，但不具有表示完全不存在的絕對零點。",
+      "reference_sources": [
+        {
+          "title": "高雄科技大學教材：資料與統計",
+          "url": "https://www2.nkust.edu.tw/~tsungo/Publish/01%20Data%20and%20statistics.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 interval 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "interval"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "keyword search",
+      "zh_tw": "關鍵字檢索",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "以主題相關詞彙比對資料，找出符合查詢條件的資源。",
+      "reference_sources": [
+        {
+          "title": "嘉南藥理大學圖書館：EBSCOhost檢索指南",
+          "url": "https://lib.cnu.edu.tw/3_2_eresource/doc/EBSCOhost_CGuide_6_1.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 keyword search 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "keyword searches"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "librarian",
+      "zh_tw": "圖書館員",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "從事圖書館資源管理與資訊服務的專業人員。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：librarian；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "librarians"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "librarianship",
+      "zh_tw": "圖書館學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究圖書館及其資訊資源、專業服務與實務的領域。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "librarianship 對照譯名為圖書館學、圖書館事業、圖書館專業；依本題學科脈絡採圖書館學。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "librarianship"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "library collection",
+      "zh_tw": "圖書館館藏",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "圖書館蒐集及提供使用的各類資源。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：library collection；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "library collection"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "literature review",
+      "zh_tw": "文獻回顧",
+      "aliases_zh_tw": [
+        "文獻探討"
+      ],
+      "definition_zh_tw": "有系統地整理、比較與綜合既有研究，辨識已知成果、分歧與待解問題。",
+      "reference_sources": [
+        {
+          "title": "臺大圖資學刊：系統性文獻分析與書目計量",
+          "url": "https://jlis.lis.ntu.edu.tw/files/journal/j56-5.pdf",
+          "evidence": "文中明列 literature review 為文獻回顧，又稱文獻探討。"
+        }
+      ],
+      "source_years": [
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "literature review"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "medium",
+      "zh_tw": "媒體；載體",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "承載或傳遞資訊的形式與工具。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：medium；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        110
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 110,
+          "question": "II-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+          "source_type": "translation",
+          "original_term": "medium"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794"
+      ]
+    },
+    {
+      "term": "meta-analysis",
+      "zh_tw": "後設分析",
+      "aliases_zh_tw": [
+        "統合分析"
+      ],
+      "definition_zh_tw": "以統計方法整合多項獨立研究的效果估計，評估整體效果及研究間差異。",
+      "reference_sources": [
+        {
+          "title": "國教院：性教育教學效果之後設分析",
+          "url": "https://teric.naer.edu.tw/wSite/ct?ctNode=638&mp=teric_m&resCtNode=600&xItem=1823405",
+          "evidence": "中英文關鍵字對照後設分析與 meta-analysis。"
+        },
+        {
+          "title": "臺大論文：極少數研究下之統合分析",
+          "url": "https://tdr.lib.ntu.edu.tw/handle/123456789/78509?mode=full",
+          "evidence": "題名統合分析，英文關鍵字 meta-analysis。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "meta-analysis"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "metadata schema",
+      "zh_tw": "詮釋資料綱要",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "規定詮釋資料元素、結構及表達方式的架構。",
+      "reference_sources": [
+        {
+          "title": "陽明交通大學數位圖書資訊學程論文：詮釋資料綱要",
+          "url": "https://ir.lib.nycu.edu.tw/bitstream/11536/77786/1/763101.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 metadata schema 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "schemas"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "National Information Standards Organization",
+      "zh_tw": "美國國家資訊標準組織",
+      "definition_zh_tw": "制定資訊資源描述、交換與服務相關標準的組織，縮寫為 NISO。",
+      "aliases_zh_tw": [],
+      "reference_sources": [
+        {
+          "title": "教育百科：國家資訊標準組織（美國）",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=國家資訊標準組織（美國）",
+          "evidence": "核對英文 National Information Standards Organization 與臺灣中文用法；解釋依文章脈絡撰寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "National Information Standards Organization"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "nominal",
+      "zh_tw": "名義（尺度）",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "以類別區分對象，不表示類別間有大小順序；依題文測量脈絡解讀。",
+      "reference_sources": [
+        {
+          "title": "高雄科技大學教材：資料與統計",
+          "url": "https://www2.nkust.edu.tw/~tsungo/Publish/01%20Data%20and%20statistics.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 nominal 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "nominal"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "null hypothesis",
+      "zh_tw": "虛無假設",
+      "aliases_zh_tw": [
+        "虛無假說"
+      ],
+      "definition_zh_tw": "統計檢定預先設定的基準假設，常表示沒有差異或效果；證據不足以拒絕它，不等於證明它為真。",
+      "reference_sources": [
+        {
+          "title": "臺大生物統計教材：虛無假設",
+          "url": "https://homepage.ntu.edu.tw/~clhsieh/biostatistic/6/6-1-1.html",
+          "evidence": "英文名稱 null hypothesis, H0，範例以沒有影響為虛無假設。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "null hypothesis"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "online resources",
+      "zh_tw": "線上資源",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "透過網路取得或使用的資訊資源。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：online resources；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "online resources"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "ordinal",
+      "zh_tw": "順序（尺度）",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "可表示次序，但相鄰位置的差距不必相等。",
+      "reference_sources": [
+        {
+          "title": "高雄科技大學教材：資料與統計",
+          "url": "https://www2.nkust.edu.tw/~tsungo/Publish/01%20Data%20and%20statistics.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 ordinal 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "ordinal"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "population",
+      "zh_tw": "母體",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究所關心的全部對象或觀察單位集合；此處是統計學用語。",
+      "reference_sources": [
+        {
+          "title": "陽明交通大學典藏：抽樣設計",
+          "url": "https://ir.lib.nycu.edu.tw/bitstream/11536/50012/1/151301.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 population 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "population"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "precision",
+      "zh_tw": "精確率",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "被檢索出的文獻中，真正相關的文獻所占比例，用來衡量結果有多精準。",
+      "reference_sources": [
+        {
+          "title": "國教院辭書：回現率",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=回現率",
+          "evidence": "條目說明 Recall Ratio 回現率及 Precision 精確率為資訊檢索評估指標。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "precision"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "preservation metadata",
+      "zh_tw": "保存性詮釋資料",
+      "aliases_zh_tw": [
+        "保存詮釋資料"
+      ],
+      "definition_zh_tw": "記錄長期保存所需的背景、處理歷程與保存相關資訊。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：詮釋資料",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%A9%AE%E9%87%8B%E8%B3%87%E6%96%99",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 preservation metadata 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "different types of metadata elements (descriptive, administrative, technical, use, and preservation)",
+          "source_note": "原題以並列形容詞省略重複的 metadata；此詞依該原句補全，並非額外出題的名詞解釋。"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "query",
+      "zh_tw": "查詢",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "向檢索系統提出的搜尋條件或要求。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：query；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        111,
+        114
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 114,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+          "source_type": "translation",
+          "original_term": "queries"
+        },
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "query"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+        "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794"
+      ]
+    },
+    {
+      "term": "ratio",
+      "zh_tw": "比率（尺度）／比率",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "一般指兩數之比；作為測量尺度時另具有絕對零點。題文以 ratio 描述數量關係。",
+      "reference_sources": [
+        {
+          "title": "高雄科技大學教材：資料與統計",
+          "url": "https://www2.nkust.edu.tw/~tsungo/Publish/01%20Data%20and%20statistics.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 ratio 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "ratio"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "recall",
+      "zh_tw": "回現率",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "被成功檢索出的相關文獻，占資料庫中全部相關文獻的比例，用來衡量找得多完整。",
+      "reference_sources": [
+        {
+          "title": "國教院辭書：回現率",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=回現率",
+          "evidence": "條目說明 Recall Ratio 回現率及 Precision 精確率為資訊檢索評估指標。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "recall"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "relevance ranking",
+      "zh_tw": "相關性排序",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "依文件與查詢的相關程度排列檢索結果，優先呈現較相關者。",
+      "reference_sources": [
+        {
+          "title": "中央研究院數位典藏教材：資訊檢索",
+          "url": "https://ebook.iis.sinica.edu.tw/pdf/IR.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 relevance ranking 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        111
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 111,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+          "source_type": "translation",
+          "original_term": "relevance ranking"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794"
+      ]
+    },
+    {
+      "term": "research topic",
+      "zh_tw": "研究主題",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究所要探討的問題或主題範圍。",
+      "reference_sources": [
+        {
+          "title": "國家教育研究院：圖書館學與資訊科學名詞（2020）",
+          "url": "https://teric.naer.edu.tw/wSite/PDFReader?fileName=1595380438983&format=pdf",
+          "evidence": "英中對照詞條：research topic；定義依試題情境另行撰寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "research topic"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "sample",
+      "zh_tw": "樣本",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "從研究母體取出、用以觀察及分析的一部分單位。",
+      "reference_sources": [
+        {
+          "title": "陽明交通大學典藏：抽樣設計",
+          "url": "https://ir.lib.nycu.edu.tw/bitstream/11536/50012/1/151301.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 sample 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "sample"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "sample size",
+      "zh_tw": "樣本數",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "研究樣本包含的觀察單位數量，會影響估計精度與檢定結果。",
+      "reference_sources": [
+        {
+          "title": "陽明交通大學典藏：抽樣設計",
+          "url": "https://ir.lib.nycu.edu.tw/bitstream/11536/50012/1/151301.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 sample size 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "sample size"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "scientometrics",
+      "zh_tw": "科學計量學",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "以量化方式研究科學活動的成長、結構、產出及影響，包括科研表現與學科關係。",
+      "reference_sources": [
+        {
+          "title": "臺大學術典藏：學術研究競爭力研究",
+          "url": "https://scholars.lib.ntu.edu.tw/server/api/core/bitstreams/8cc29cf1-5471-42d4-b1b4-b464894e4afd/content",
+          "evidence": "研究報告中英文關鍵字對照 scientometrics 與科學計量學。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "scientometrics"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "search engine",
+      "zh_tw": "搜尋引擎",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "建立資訊索引並比對查詢、排序及呈現搜尋結果的工具。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：搜尋引擎",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 search engine 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "search engine"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "significance level",
+      "zh_tw": "顯著水準",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "虛無假設成立時，檢定程序容許犯第一類錯誤的機率上限。",
+      "reference_sources": [
+        {
+          "title": "臺大科學Online：型I錯誤、型II錯誤與p值",
+          "url": "https://case.ntu.edu.tw/highscope/型-i-錯誤、型-ii-錯誤與-p-值/index.html",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 significance level 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "significance level"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "significance testing",
+      "zh_tw": "顯著性檢定",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "利用樣本資料評估虛無假設，作出是否拒絕假設的統計判斷。",
+      "reference_sources": [
+        {
+          "title": "高雄大學統計教材：估計與檢定",
+          "url": "https://www.stat.nuk.edu.tw/huangwj/book/R/R_testing.htm",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 significance testing 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "significance testing"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "small world",
+      "zh_tw": "小世界",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "資訊行為研究中，由共享規範及世界觀的成員形成的社會環境。",
+      "reference_sources": [
+        {
+          "title": "國立公共資訊圖書館典藏／臺大論文：資訊世界",
+          "url": "https://www.nlpi.edu.tw/Uploads/files/碩15-大學應屆畢業生初任求職情境中的資訊世界.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 small world 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "small world"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "socioeconomic status",
+      "zh_tw": "社會經濟地位",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "常以教育、職業及收入等指標衡量個人或家庭所處的社會位置。",
+      "reference_sources": [
+        {
+          "title": "中央研究院調查研究：社經地位",
+          "url": "https://www.rchss.sinica.edu.tw/10/archives/4d0d561152bab5d4.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 socioeconomic status 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "3",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "socioeconomic status"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "statistical significance",
+      "zh_tw": "統計顯著性",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "依統計檢定與既定門檻判斷資料是否與虛無假設不相容；不等於效果很大。",
+      "reference_sources": [
+        {
+          "title": "教育部臺灣學術倫理教育資源中心：統計顯著性",
+          "url": "https://ethics-p.moe.edu.tw/static/ethics/u113/p05.html",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 statistical significance 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        115
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 115,
+          "question": "C-1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+          "source_type": "translation",
+          "original_term": "Statistical significance"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794"
+      ]
+    },
+    {
+      "term": "Sustainable Development Goals",
+      "zh_tw": "永續發展目標",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "聯合國提出的共同發展目標，涵蓋社會、經濟與環境面向。",
+      "reference_sources": [
+        {
+          "title": "經濟部綜合規劃司：永續發展",
+          "url": "https://www.moea.gov.tw/MNS/cord/content/Content.aspx?menu_id=41421",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 Sustainable Development Goals 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "2",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "Sustainable Development Goals"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    },
+    {
+      "term": "technical metadata",
+      "zh_tw": "技術性詮釋資料",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "記錄檔案格式、壓縮方式及軟硬體需求等技術特徵。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：行政性詮釋資料",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%A1%8C%E6%94%BF%E6%80%A7%E8%A9%AE%E9%87%8B%E8%B3%87%E6%96%99",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 technical metadata 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "different types of metadata elements (descriptive, administrative, technical, use, and preservation)",
+          "source_note": "原題以並列形容詞省略重複的 metadata；此詞依該原句補全，並非額外出題的名詞解釋。"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "top-down design",
+      "zh_tw": "由上而下設計",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "先確定整體目標與架構，再逐層細化各部分的設計方式。",
+      "reference_sources": [
+        {
+          "title": "臺大圖書資訊學刊：學術文獻主題分類體系",
+          "url": "https://jlis.lis.ntu.edu.tw/files/journal/j16-8.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 top-down design 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        109
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 109,
+          "question": "4",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+          "source_type": "translation",
+          "original_term": "top-down design"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794"
+      ]
+    },
+    {
+      "term": "use metadata",
+      "zh_tw": "使用性詮釋資料",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "記錄資源如何被使用，以及使用管理所需的相關資訊。",
+      "reference_sources": [
+        {
+          "title": "教育部教育百科／國家教育研究院：詮釋資料",
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E8%A9%AE%E9%87%8B%E8%B3%87%E6%96%99",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 use metadata 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        113
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 113,
+          "question": "2.1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+          "source_type": "translation",
+          "original_term": "different types of metadata elements (descriptive, administrative, technical, use, and preservation)",
+          "source_note": "原題以並列形容詞省略重複的 metadata；此詞依該原句補全，並非額外出題的名詞解釋。"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794"
+      ]
+    },
+    {
+      "term": "worldview",
+      "zh_tw": "世界觀",
+      "aliases_zh_tw": [],
+      "definition_zh_tw": "群體或個人理解世界與判斷資訊重要性的基本觀點。",
+      "reference_sources": [
+        {
+          "title": "國立公共資訊圖書館典藏／臺大論文：資訊世界",
+          "url": "https://www.nlpi.edu.tw/Uploads/files/碩15-大學應屆畢業生初任求職情境中的資訊世界.pdf",
+          "evidence": "2026-10-12 查閱此臺灣機構來源，核對 worldview 的譯名或相關概念；中文解釋依考題脈絡改寫。"
+        }
+      ],
+      "source_years": [
+        112
+      ],
+      "source_type": [
+        "translation"
+      ],
+      "source_question": [
+        {
+          "year": 112,
+          "question": "1",
+          "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+          "source_type": "translation",
+          "original_term": "worldview"
+        }
+      ],
+      "source_pdf": [
+        "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794"
+      ]
+    }
+  ]
+}

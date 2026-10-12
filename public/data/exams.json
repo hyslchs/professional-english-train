@@ -1,0 +1,1157 @@
+{
+  "articles": [
+    {
+      "year": 115,
+      "question": "B",
+      "page": 1,
+      "question_type": "chinese_to_english",
+      "english": "The third of the Five Laws of Library Science, \"Every book its reader,\" states that libraries should ensure that their collections are widely used. Examples of practical measures include: 1) adopting an open-stack system that allows patrons to browse freely and increases opportunities for them to encounter books; 2) arranging books on shelves by subject and displaying new books to highlight recent additions to the collection, placing recommendation signs on shelves to attract attention, and choosing shelf heights and layouts for ease of use; 3) having reference librarians help patrons find the books they need; and 4) attracting potential patrons and turning them into active library users. The fourth law, \"Save the time of the reader,\" calls for making the most efficient use of patrons' time. For example, open-stack access reduces the time needed to find books; a comprehensive catalog with thorough subject analysis helps patrons locate all relevant materials; and placing frequently used materials near the entrance and providing a prominent signage and wayfinding system help patrons find suitable books promptly.",
+      "zh_tw": "圖書館學五律之第三律「每一書均有其讀者」指的是圖書館應使館藏充分流通。以下為具體做法之舉隅：1. 採用開架系統，便利讀者自由瀏覽，增加圖書與讀者接觸的機會。2. 依主題分類排架，提供新書展示，凸顯館藏新穎性；書架張貼推薦標示以吸引讀者的注意；書架高度與架位安排以方便讀者利用為原則。3. 參考館員應協助讀者找到所需圖書。4. 吸引潛在讀者成為圖書館的真正使用者。而第四律「節省讀者的時間」則是盡可能讓讀者的時間做最有效率的應用。例如：開架閱覽可節省讀者找到所需圖書的時間；完備的主題分析目錄可助讀者將相關資料一網打盡；將利用頻繁的館藏配置在入口處並建立醒目的標示導引系統，可加速讀者及時找到適切的圖書。",
+      "translation_note": "英文為依原始中文試題撰寫的參考譯文，非官方答案；翻譯可有其他正確表達。",
+      "source_reviewed_on": "2026-10-12",
+      "reading_segments": [
+        "The third of the Five Laws of Library Science, \"Every book its reader,\" states that libraries should ensure that their collections are widely used.",
+        "Examples of practical measures include: 1) adopting an open-stack system that allows patrons to browse freely and increases opportunities for them to encounter books;",
+        "2) arranging books on shelves by subject and displaying new books to highlight recent additions to the collection,",
+        "placing recommendation signs on shelves to attract attention,",
+        "and choosing shelf heights and layouts for ease of use;",
+        "3) having reference librarians help patrons find the books they need;",
+        "and 4) attracting potential patrons and turning them into active library users.",
+        "The fourth law, \"Save the time of the reader,\" calls for making the most efficient use of patrons' time.",
+        "For example, open-stack access reduces the time needed to find books;",
+        "a comprehensive catalog with thorough subject analysis helps patrons locate all relevant materials;",
+        "and placing frequently used materials near the entrance and providing a prominent signage and wayfinding system help patrons find suitable books promptly."
+      ],
+      "id": "ntu-lis-115-241e16361ac6-translation-B",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+      "source_sha256": "241e16361ac6596e71451425f595dedb0da012ca3ac815a6341b9d34cb19463f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. English is an assistant reference translation of the verified Chinese source.",
+      "sentences": [
+        {
+          "english": "The third of the Five Laws of Library Science, \"Every book its reader,\" states that libraries should ensure that their collections are widely used.",
+          "zh_tw": "圖書館學五律之第三律「每一書均有其讀者」指的是圖書館應使館藏充分流通。",
+          "start": 0,
+          "end": 147,
+          "separator_after": " "
+        },
+        {
+          "english": "Examples of practical measures include: 1) adopting an open-stack system that allows patrons to browse freely and increases opportunities for them to encounter books;",
+          "zh_tw": "以下為具體做法之舉隅：1. 採用開架系統，便利讀者自由瀏覽，增加圖書與讀者接觸的機會。",
+          "start": 148,
+          "end": 314,
+          "separator_after": " "
+        },
+        {
+          "english": "2) arranging books on shelves by subject and displaying new books to highlight recent additions to the collection,",
+          "zh_tw": "2. 依主題分類排架，提供新書展示，凸顯館藏新穎性；",
+          "start": 315,
+          "end": 429,
+          "separator_after": " "
+        },
+        {
+          "english": "placing recommendation signs on shelves to attract attention,",
+          "zh_tw": "書架張貼推薦標示以吸引讀者的注意；",
+          "start": 430,
+          "end": 491,
+          "separator_after": " "
+        },
+        {
+          "english": "and choosing shelf heights and layouts for ease of use;",
+          "zh_tw": "書架高度與架位安排以方便讀者利用為原則。",
+          "start": 492,
+          "end": 547,
+          "separator_after": " "
+        },
+        {
+          "english": "3) having reference librarians help patrons find the books they need;",
+          "zh_tw": "3. 參考館員應協助讀者找到所需圖書。",
+          "start": 548,
+          "end": 617,
+          "separator_after": " "
+        },
+        {
+          "english": "and 4) attracting potential patrons and turning them into active library users.",
+          "zh_tw": "4. 吸引潛在讀者成為圖書館的真正使用者。",
+          "start": 618,
+          "end": 697,
+          "separator_after": " "
+        },
+        {
+          "english": "The fourth law, \"Save the time of the reader,\" calls for making the most efficient use of patrons' time.",
+          "zh_tw": "而第四律「節省讀者的時間」則是盡可能讓讀者的時間做最有效率的應用。",
+          "start": 698,
+          "end": 802,
+          "separator_after": " "
+        },
+        {
+          "english": "For example, open-stack access reduces the time needed to find books;",
+          "zh_tw": "例如：開架閱覽可節省讀者找到所需圖書的時間；",
+          "start": 803,
+          "end": 872,
+          "separator_after": " "
+        },
+        {
+          "english": "a comprehensive catalog with thorough subject analysis helps patrons locate all relevant materials;",
+          "zh_tw": "完備的主題分析目錄可助讀者將相關資料一網打盡；",
+          "start": 873,
+          "end": 972,
+          "separator_after": " "
+        },
+        {
+          "english": "and placing frequently used materials near the entrance and providing a prominent signage and wayfinding system help patrons find suitable books promptly.",
+          "zh_tw": "將利用頻繁的館藏配置在入口處並建立醒目的標示導引系統，可加速讀者及時找到適切的圖書。",
+          "start": 973,
+          "end": 1127,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 115,
+      "question": "C-1",
+      "page": 2,
+      "english": "Statistical significance testing calculates a probability value, which ranges from .00 to 1.00, based on the observed sample statistics and the given sample size. This calculation assumes that the sample was drawn from a population in which the null hypothesis is exactly true. The null hypothesis typically states that there is no difference between experimental groups. Given that significance testing is probability-based and may be impacted by sample size, the sample must adequately represent the population. The aim of statistical significance testing is to help researchers determine whether they should accept or reject the null hypothesis, as well as the level of confidence in making the judgment. The typical significance level is .05, which means that there is a 5% chance that the researcher made a mistake and said there is a statistically significant difference when there actually is not. However, the concept of statistical significance can be questionable. Thus, the American Psychological Association (APA) suggests that researchers use effect sizes, confidence intervals, and meta-analysis to more accurately represent effects.",
+      "zh_tw": "統計顯著性檢定根據觀察到的樣本統計量與既定樣本數，計算介於 .00 至 1.00 的機率值。此計算假定樣本取自虛無假設完全成立的母體。虛無假設通常指出實驗組別之間沒有差異。由於顯著性檢定以機率為基礎，並可能受樣本數影響，樣本必須充分代表母體。統計顯著性檢定旨在協助研究者判定應接受或拒絕虛無假設，以及作此判斷的信心水準。一般的顯著水準為 .05；原文將其解釋為研究者在實際沒有差異時，錯誤宣稱存在統計顯著差異的機率為 5%。然而，統計顯著性的概念可能受到質疑。因此，美國心理學會（APA）建議研究者使用效果量、信賴區間及後設分析，更準確地呈現效果。",
+      "translation_note": "忠實翻譯題文；題文對 .05 的描述較簡化。顯著水準是虛無假設成立時，檢定程序犯第一類錯誤的機率上限，並不是某次判斷出錯的事後機率。",
+      "id": "ntu-lis-115-241e16361ac6-translation-C-1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+      "source_sha256": "241e16361ac6596e71451425f595dedb0da012ca3ac815a6341b9d34cb19463f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Statistical significance testing calculates a probability value, which ranges from .00 to 1.00, based on the observed sample statistics and the given sample size.",
+          "zh_tw": "統計顯著性檢定根據觀察到的樣本統計量與既定樣本數，計算介於 .00 至 1.00 的機率值。",
+          "start": 0,
+          "end": 162,
+          "separator_after": " "
+        },
+        {
+          "english": "This calculation assumes that the sample was drawn from a population in which the null hypothesis is exactly true.",
+          "zh_tw": "此計算假定樣本取自虛無假設完全成立的母體。",
+          "start": 163,
+          "end": 277,
+          "separator_after": " "
+        },
+        {
+          "english": "The null hypothesis typically states that there is no difference between experimental groups.",
+          "zh_tw": "虛無假設通常指出實驗組別之間沒有差異。",
+          "start": 278,
+          "end": 371,
+          "separator_after": " "
+        },
+        {
+          "english": "Given that significance testing is probability-based and may be impacted by sample size, the sample must adequately represent the population.",
+          "zh_tw": "由於顯著性檢定以機率為基礎，並可能受樣本數影響，樣本必須充分代表母體。",
+          "start": 372,
+          "end": 513,
+          "separator_after": " "
+        },
+        {
+          "english": "The aim of statistical significance testing is to help researchers determine whether they should accept or reject the null hypothesis, as well as the level of confidence in making the judgment.",
+          "zh_tw": "統計顯著性檢定旨在協助研究者判定應接受或拒絕虛無假設，以及作此判斷的信心水準。",
+          "start": 514,
+          "end": 707,
+          "separator_after": " "
+        },
+        {
+          "english": "The typical significance level is .05, which means that there is a 5% chance that the researcher made a mistake and said there is a statistically significant difference when there actually is not.",
+          "zh_tw": "一般的顯著水準為 .05；原文將其解釋為研究者在實際沒有差異時，錯誤宣稱存在統計顯著差異的機率為 5%。",
+          "start": 708,
+          "end": 904,
+          "separator_after": " "
+        },
+        {
+          "english": "However, the concept of statistical significance can be questionable.",
+          "zh_tw": "然而，統計顯著性的概念可能受到質疑。",
+          "start": 905,
+          "end": 974,
+          "separator_after": " "
+        },
+        {
+          "english": "Thus, the American Psychological Association (APA) suggests that researchers use effect sizes, confidence intervals, and meta-analysis to more accurately represent effects.",
+          "zh_tw": "因此，美國心理學會（APA）建議研究者使用效果量、信賴區間及後設分析，更準確地呈現效果。",
+          "start": 975,
+          "end": 1147,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 115,
+      "question": "C-2",
+      "page": 2,
+      "english": "Information science is a field concerned with the problems that arise in the communication of knowledge. To be more specific, information science researchers examine records involved in knowledge communication from both theoretical and practical perspectives. This interest overlaps with librarianship and documentation. Accordingly, discussions of relevance in information science should be of direct interest to librarianship, and vice versa. The key areas of study in information science include: 1) the technical aspects of knowledge communication, such as the use of information technologies for processing and transmitting information; 2) representational aspects, including the development of languages, vocabularies, and classification schemes for representing information, along with file organization methods and the procedures and logic used for retrieval; and 3) systems aspects, including the design, development, and operation of information systems in general and information retrieval systems in particular, as well as the growth of complex information networks and the information industry.",
+      "zh_tw": "資訊科學關注知識傳播過程中產生的問題。更具體地說，資訊科學研究者從理論及實務觀點，探討知識傳播涉及的紀錄。這項關注與圖書館學及文獻學有所重疊，因此資訊科學對相關性的討論，應直接引起圖書館學的關注，反之亦然。資訊科學的主要研究領域包括：一、知識傳播的技術面，例如利用資訊科技處理與傳送資訊；二、表徵面，包括發展用以表示資訊的語言、詞彙及分類架構，以及檔案組織方法與檢索所用的程序和邏輯；三、系統面，包括一般資訊系統、尤其資訊檢索系統的設計、發展與運作，以及複雜資訊網路和資訊產業的成長。",
+      "id": "ntu-lis-115-241e16361ac6-translation-C-2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=101516&iDP=68860&iS=5794",
+      "source_sha256": "241e16361ac6596e71451425f595dedb0da012ca3ac815a6341b9d34cb19463f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Information science is a field concerned with the problems that arise in the communication of knowledge.",
+          "zh_tw": "資訊科學關注知識傳播過程中產生的問題。",
+          "start": 0,
+          "end": 104,
+          "separator_after": " "
+        },
+        {
+          "english": "To be more specific, information science researchers examine records involved in knowledge communication from both theoretical and practical perspectives.",
+          "zh_tw": "更具體地說，資訊科學研究者從理論及實務觀點，探討知識傳播涉及的紀錄。",
+          "start": 105,
+          "end": 259,
+          "separator_after": " "
+        },
+        {
+          "english": "This interest overlaps with librarianship and documentation.",
+          "zh_tw": "這項關注與圖書館學及文獻學有所重疊。",
+          "start": 260,
+          "end": 320,
+          "separator_after": " "
+        },
+        {
+          "english": "Accordingly, discussions of relevance in information science should be of direct interest to librarianship, and vice versa.",
+          "zh_tw": "因此，資訊科學對相關性的討論，應直接引起圖書館學的關注，反之亦然。",
+          "start": 321,
+          "end": 444,
+          "separator_after": " "
+        },
+        {
+          "english": "The key areas of study in information science include: 1) the technical aspects of knowledge communication, such as the use of information technologies for processing and transmitting information; 2) representational aspects, including the development of languages, vocabularies, and classification schemes for representing information, along with file organization methods and the procedures and logic used for retrieval; and 3) systems aspects, including the design, development, and operation of information systems in general and information retrieval systems in particular, as well as the growth of complex information networks and the information industry.",
+          "zh_tw": "資訊科學的主要研究領域包括：一、知識傳播的技術面，例如利用資訊科技處理與傳送資訊；二、表徵面，包括發展用以表示資訊的語言、詞彙及分類架構，以及檔案組織方法與檢索所用的程序和邏輯；三、系統面，包括一般資訊系統、尤其資訊檢索系統的設計、發展與運作，以及複雜資訊網路和資訊產業的成長。",
+          "start": 445,
+          "end": 1107,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 114,
+      "question": "2",
+      "page": 1,
+      "question_type": "chinese_to_english",
+      "english": "Email is an important information and communication tool for library operations and services to patrons, but it is also a major source of information security threats. Attackers may send phishing emails disguised as system update notifications from database vendors, electronic journal subscription confirmations from journal publishers, or document delivery requests. These carefully crafted social engineering attacks often lure users into clicking malicious links and entering their usernames and passwords on fake authentication pages. Once an account with administrator privileges has been compromised, attackers can not only access the backend database of the library's information system but may also exploit database administration privileges to steal sensitive information, such as patrons' personal data and contracts for the acquisition of electronic resources.",
+      "zh_tw": "電子郵件是圖書館執行館務營運與服務讀者的重要資通訊工具，但同時也是資安威脅的主要來源。攻擊者可能會偽造資料庫廠商的系統更新通知、期刊出版社的電子期刊訂閱確認信，或是文獻傳遞申請等釣魚郵件。這些經過精心設計的社交工程攻擊，往往誘使使用者點選惡意連結，導致其在偽造的身份驗證頁面上輸入帳號與密碼。一旦擁有管理者權限的帳號遭到盜用，攻擊者不僅能夠存取圖書館資訊系統的後端資料庫，更可能藉由資料庫管理權限，竊取讀者個資與電子資源採購合約等重要資訊。",
+      "translation_note": "英文為依原始中文試題撰寫的參考譯文，非官方答案；翻譯可有其他正確表達。",
+      "source_reviewed_on": "2026-10-12",
+      "id": "ntu-lis-114-6887e39ecbae-translation-2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+      "source_sha256": "6887e39ecbaeacd883620704ae0117e92a7de8aa6d6cd7e175694b7bbab1bade",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. English is an assistant reference translation of the verified Chinese source.",
+      "sentences": [
+        {
+          "english": "Email is an important information and communication tool for library operations and services to patrons, but it is also a major source of information security threats.",
+          "zh_tw": "電子郵件是圖書館執行館務營運與服務讀者的重要資通訊工具，但同時也是資安威脅的主要來源。",
+          "start": 0,
+          "end": 167,
+          "separator_after": " "
+        },
+        {
+          "english": "Attackers may send phishing emails disguised as system update notifications from database vendors, electronic journal subscription confirmations from journal publishers, or document delivery requests.",
+          "zh_tw": "攻擊者可能會偽造資料庫廠商的系統更新通知、期刊出版社的電子期刊訂閱確認信，或是文獻傳遞申請等釣魚郵件。",
+          "start": 168,
+          "end": 368,
+          "separator_after": " "
+        },
+        {
+          "english": "These carefully crafted social engineering attacks often lure users into clicking malicious links and entering their usernames and passwords on fake authentication pages.",
+          "zh_tw": "這些經過精心設計的社交工程攻擊，往往誘使使用者點選惡意連結，導致其在偽造的身份驗證頁面上輸入帳號與密碼。",
+          "start": 369,
+          "end": 539,
+          "separator_after": " "
+        },
+        {
+          "english": "Once an account with administrator privileges has been compromised, attackers can not only access the backend database of the library's information system but may also exploit database administration privileges to steal sensitive information, such as patrons' personal data and contracts for the acquisition of electronic resources.",
+          "zh_tw": "一旦擁有管理者權限的帳號遭到盜用，攻擊者不僅能夠存取圖書館資訊系統的後端資料庫，更可能藉由資料庫管理權限，竊取讀者個資與電子資源採購合約等重要資訊。",
+          "start": 540,
+          "end": 872,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 114,
+      "question": "3",
+      "page": 1,
+      "english": "The evolution of information discovery in academic libraries has been transformed by artificial intelligence technologies. Conventional search methods, such as keyword searches and database queries, often leave researchers overwhelmed by the vast amount of available information, making it difficult to locate relevant resources efficiently. AI-powered solutions now offer enhanced search capabilities, including intelligent metadata extraction, automated literature review, and personalized content recommendations. These tools not only help researchers navigate through extensive databases more effectively but also assist librarians in improving content organization and accessibility. While AI brings significant advantages to information discovery, libraries must carefully evaluate these tools to ensure they maintain the quality and reliability of academic resources. The challenge lies in balancing advanced technology with core library principles of providing authoritative and well-curated information to support scholarly research.",
+      "zh_tw": "人工智慧技術改變了學術圖書館資訊探索的發展。關鍵字搜尋及資料庫查詢等傳統方法，常使研究者面對龐大資訊量而不知所措，難以有效率地找到相關資源。人工智慧方案如今提供更強的搜尋功能，包括智慧詮釋資料擷取、自動化文獻回顧及個人化內容推薦。這些工具不僅協助研究者更有效地瀏覽大型資料庫，也協助館員改善內容組織及可及性。雖然人工智慧對資訊探索有顯著優勢，圖書館仍須仔細評估這些工具，確保學術資源的品質與可靠性。挑戰在於平衡先進技術與圖書館的核心原則：提供具權威性、經妥善整理的資訊，以支持學術研究。",
+      "id": "ntu-lis-114-6887e39ecbae-translation-3",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=99234&iDP=67299&iS=5794",
+      "source_sha256": "6887e39ecbaeacd883620704ae0117e92a7de8aa6d6cd7e175694b7bbab1bade",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "The evolution of information discovery in academic libraries has been transformed by artificial intelligence technologies.",
+          "zh_tw": "人工智慧技術改變了學術圖書館資訊探索的發展。",
+          "start": 0,
+          "end": 122,
+          "separator_after": " "
+        },
+        {
+          "english": "Conventional search methods, such as keyword searches and database queries, often leave researchers overwhelmed by the vast amount of available information, making it difficult to locate relevant resources efficiently.",
+          "zh_tw": "關鍵字搜尋及資料庫查詢等傳統方法，常使研究者面對龐大資訊量而不知所措，難以有效率地找到相關資源。",
+          "start": 123,
+          "end": 341,
+          "separator_after": " "
+        },
+        {
+          "english": "AI-powered solutions now offer enhanced search capabilities, including intelligent metadata extraction, automated literature review, and personalized content recommendations.",
+          "zh_tw": "人工智慧方案如今提供更強的搜尋功能，包括智慧詮釋資料擷取、自動化文獻回顧及個人化內容推薦。",
+          "start": 342,
+          "end": 516,
+          "separator_after": " "
+        },
+        {
+          "english": "These tools not only help researchers navigate through extensive databases more effectively but also assist librarians in improving content organization and accessibility.",
+          "zh_tw": "這些工具不僅協助研究者更有效地瀏覽大型資料庫，也協助館員改善內容組織及可及性。",
+          "start": 517,
+          "end": 688,
+          "separator_after": " "
+        },
+        {
+          "english": "While AI brings significant advantages to information discovery, libraries must carefully evaluate these tools to ensure they maintain the quality and reliability of academic resources.",
+          "zh_tw": "雖然人工智慧對資訊探索有顯著優勢，圖書館仍須仔細評估這些工具，確保學術資源的品質與可靠性。",
+          "start": 689,
+          "end": 874,
+          "separator_after": " "
+        },
+        {
+          "english": "The challenge lies in balancing advanced technology with core library principles of providing authoritative and well-curated information to support scholarly research.",
+          "zh_tw": "挑戰在於平衡先進技術與圖書館的核心原則：提供具權威性、經妥善整理的資訊，以支持學術研究。",
+          "start": 875,
+          "end": 1042,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 113,
+      "question": "2.1",
+      "page": 1,
+      "english": "In a modular metadata environment, different types of metadata elements (descriptive, administrative, technical, use, and preservation) from different schemas, vocabularies, applications, and other building blocks can be combined in an interoperable way. The components of a metadata record may be regarded as various pieces of a puzzle: they might be put together by combining pieces of metadata descriptions coming from different processes (by humans or machines); they might also be used and reused piece by piece when new records need to be generated (again, by humans or machines). Although libraries have been creating rich descriptive metadata for a long time, it is within the newer, non-library catalog applications (such as digital images or assets collections) that these descriptive metadata components may be reused or combined when other pieces of metadata are generated.",
+      "zh_tw": "在模組化的詮釋資料環境中，來自不同綱要、詞彙集、應用程式及其他建構元件的各類詮釋資料元素，包括描述性、管理性、技術性、使用及保存元素，可以用具互通性的方式組合。詮釋資料紀錄的組成部分可視為拼圖碎片：它們可將不同流程中由人或機器產生的詮釋描述片段拼在一起；當需要產生新紀錄時，也可逐片使用或再利用。雖然圖書館長久以來一直建立豐富的描述性詮釋資料，但在較新的非圖書館目錄應用中，例如數位影像或資產集合，當其他詮釋資料片段生成時，這些描述性元件才可能被再利用或組合。",
+      "id": "ntu-lis-113-8bcd750de22e-translation-2.1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "In a modular metadata environment, different types of metadata elements (descriptive, administrative, technical, use, and preservation) from different schemas, vocabularies, applications, and other building blocks can be combined in an interoperable way.",
+          "zh_tw": "在模組化的詮釋資料環境中，來自不同綱要、詞彙集、應用程式及其他建構元件的各類詮釋資料元素，包括描述性、管理性、技術性、使用及保存元素，可以用具互通性的方式組合。",
+          "start": 0,
+          "end": 254,
+          "separator_after": " "
+        },
+        {
+          "english": "The components of a metadata record may be regarded as various pieces of a puzzle: they might be put together by combining pieces of metadata descriptions coming from different processes (by humans or machines); they might also be used and reused piece by piece when new records need to be generated (again, by humans or machines).",
+          "zh_tw": "詮釋資料紀錄的組成部分可視為拼圖碎片：它們可將不同流程中由人或機器產生的詮釋描述片段拼在一起；當需要產生新紀錄時，也可逐片使用或再利用。",
+          "start": 255,
+          "end": 586,
+          "separator_after": " "
+        },
+        {
+          "english": "Although libraries have been creating rich descriptive metadata for a long time, it is within the newer, non-library catalog applications (such as digital images or assets collections) that these descriptive metadata components may be reused or combined when other pieces of metadata are generated.",
+          "zh_tw": "雖然圖書館長久以來一直建立豐富的描述性詮釋資料，但在較新的非圖書館目錄應用中，例如數位影像或資產集合，當其他詮釋資料片段生成時，這些描述性元件才可能被再利用或組合。",
+          "start": 587,
+          "end": 885,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 113,
+      "question": "2.2",
+      "page": 1,
+      "english": "The term 'scientometrics' has grown in popularity and is used to describe the study of science: growth, structure, interrelationships and productivity. Scientometrics is related to and has overlapping interests with bibliometrics and informetrics. The terms bibliometrics, scientometrics, and informetrics refer to component fields related to the study of the dynamics of disciplines as reflected in the production of their literature. Areas of study range from charting changes in the output of a scholarly field through time and across countries, to the library collection problem of maintaining control of the output, and to the low publication productivity of most researchers. These terms are used to describe similar and overlapping methodologies.",
+      "zh_tw": "「科學計量學」一詞日益普及，用於描述對科學成長、結構、相互關係與生產力的研究。科學計量學與書目計量學、資訊計量學密切相關，研究關注也有所重疊。這三個名稱指涉的分支領域，都藉由學科文獻的產出來研究學科動態。研究範圍涵蓋描繪學術領域產出隨時間及國家而變化的情形、圖書館館藏對文獻產出的掌握問題，以及多數研究者出版生產力偏低的現象。這些名稱被用來描述相似且相互重疊的方法。",
+      "id": "ntu-lis-113-8bcd750de22e-translation-2.2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "The term 'scientometrics' has grown in popularity and is used to describe the study of science: growth, structure, interrelationships and productivity.",
+          "zh_tw": "「科學計量學」一詞日益普及，用於描述對科學成長、結構、相互關係與生產力的研究。",
+          "start": 0,
+          "end": 151,
+          "separator_after": " "
+        },
+        {
+          "english": "Scientometrics is related to and has overlapping interests with bibliometrics and informetrics.",
+          "zh_tw": "科學計量學與書目計量學、資訊計量學密切相關，研究關注也有所重疊。",
+          "start": 152,
+          "end": 247,
+          "separator_after": " "
+        },
+        {
+          "english": "The terms bibliometrics, scientometrics, and informetrics refer to component fields related to the study of the dynamics of disciplines as reflected in the production of their literature.",
+          "zh_tw": "這三個名稱指涉的分支領域，都藉由學科文獻的產出來研究學科動態。",
+          "start": 248,
+          "end": 435,
+          "separator_after": " "
+        },
+        {
+          "english": "Areas of study range from charting changes in the output of a scholarly field through time and across countries, to the library collection problem of maintaining control of the output, and to the low publication productivity of most researchers.",
+          "zh_tw": "研究範圍涵蓋描繪學術領域產出隨時間及國家而變化的情形、圖書館館藏對文獻產出的掌握問題，以及多數研究者出版生產力偏低的現象。",
+          "start": 436,
+          "end": 681,
+          "separator_after": " "
+        },
+        {
+          "english": "These terms are used to describe similar and overlapping methodologies.",
+          "zh_tw": "這些名稱被用來描述相似且相互重疊的方法。",
+          "start": 682,
+          "end": 753,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 113,
+      "question": "2.3",
+      "page": 1,
+      "english": "Exploratory research constitutes a significant portion of scholarly inquiry in social sciences, primarily aimed at familiarization with a given topic for the researcher. This paradigm is particularly prevalent in scenarios where the researcher is delving into a new phenomenon. One of the typical methodologies is focus groups, which facilitate guided discussions within small groups. The objectives of exploratory studies are threefold: firstly, to fulfill the researcher's intellectual curiosity and enhance their understanding; secondly, to assess the feasibility of conducting a more comprehensive investigation; and thirdly, to refine and develop methodologies for future studies. In the domain of social science research, exploratory studies yield fresh perspectives and insights, thereby enriching the research topic.",
+      "zh_tw": "探索性研究在社會科學的學術探究中占有重要比例，主要目的在於讓研究者熟悉特定主題。當研究者深入研究新現象時，尤其常採用這種研究典範。焦點團體是典型方法之一，透過引導促進小群體討論。探索性研究有三項目標：滿足研究者的求知好奇並增進理解；評估進行更完整調查的可行性；以及精進並發展未來研究的方法。在社會科學研究中，探索性研究能帶來新的觀點與洞見，從而豐富研究主題。",
+      "id": "ntu-lis-113-8bcd750de22e-translation-2.3",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Exploratory research constitutes a significant portion of scholarly inquiry in social sciences, primarily aimed at familiarization with a given topic for the researcher.",
+          "zh_tw": "探索性研究在社會科學的學術探究中占有重要比例，主要目的在於讓研究者熟悉特定主題。",
+          "start": 0,
+          "end": 169,
+          "separator_after": " "
+        },
+        {
+          "english": "This paradigm is particularly prevalent in scenarios where the researcher is delving into a new phenomenon.",
+          "zh_tw": "當研究者深入研究新現象時，尤其常採用這種研究典範。",
+          "start": 170,
+          "end": 277,
+          "separator_after": " "
+        },
+        {
+          "english": "One of the typical methodologies is focus groups, which facilitate guided discussions within small groups.",
+          "zh_tw": "焦點團體是典型方法之一，透過引導促進小群體討論。",
+          "start": 278,
+          "end": 384,
+          "separator_after": " "
+        },
+        {
+          "english": "The objectives of exploratory studies are threefold: firstly, to fulfill the researcher's intellectual curiosity and enhance their understanding; secondly, to assess the feasibility of conducting a more comprehensive investigation; and thirdly, to refine and develop methodologies for future studies.",
+          "zh_tw": "探索性研究有三項目標：滿足研究者的求知好奇並增進理解；評估進行更完整調查的可行性；以及精進並發展未來研究的方法。",
+          "start": 385,
+          "end": 685,
+          "separator_after": " "
+        },
+        {
+          "english": "In the domain of social science research, exploratory studies yield fresh perspectives and insights, thereby enriching the research topic.",
+          "zh_tw": "在社會科學研究中，探索性研究能帶來新的觀點與洞見，從而豐富研究主題。",
+          "start": 686,
+          "end": 824,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 112,
+      "question": "1",
+      "page": 1,
+      "english": "The term \"small world\" is often used in a variety of fields such as sociology and anthropology to refer to a community or group of people that is interconnected. In information science, people in a shared cultural space often have predictable and routine lives without many significant surprises or events that would warrant important discussions. They view seeking information as a normal activity, and their shared worldview provides a collective understanding of the importance of things, which ensures that not all information is perceived as equally valuable. Collective worldviews allow members of a small world to become conscious of what they should know.",
+      "zh_tw": "「小世界」一詞常見於社會學、人類學等領域，用來指彼此連結的社群或人群。在資訊科學中，共處文化空間的人通常過著可預期且規律的生活，少有足以引起重要討論的重大意外或事件。他們將資訊尋求視為日常活動，共享的世界觀讓群體對事物的重要性形成共同理解，因此不會把所有資訊看成同樣有價值。集體世界觀讓小世界的成員意識到自己應該知道哪些事。",
+      "id": "ntu-lis-112-01f45a2a4b3b-translation-1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+      "source_sha256": "01f45a2a4b3ba81624427f06b93bd3856e5bc4531a1192aaa95a41bf137b2880",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "The term \"small world\" is often used in a variety of fields such as sociology and anthropology to refer to a community or group of people that is interconnected.",
+          "zh_tw": "「小世界」一詞常見於社會學、人類學等領域，用來指彼此連結的社群或人群。",
+          "start": 0,
+          "end": 161,
+          "separator_after": " "
+        },
+        {
+          "english": "In information science, people in a shared cultural space often have predictable and routine lives without many significant surprises or events that would warrant important discussions.",
+          "zh_tw": "在資訊科學中，共處文化空間的人通常過著可預期且規律的生活，少有足以引起重要討論的重大意外或事件。",
+          "start": 162,
+          "end": 347,
+          "separator_after": " "
+        },
+        {
+          "english": "They view seeking information as a normal activity, and their shared worldview provides a collective understanding of the importance of things, which ensures that not all information is perceived as equally valuable.",
+          "zh_tw": "他們將資訊尋求視為日常活動，共享的世界觀讓群體對事物的重要性形成共同理解，因此不會把所有資訊看成同樣有價值。",
+          "start": 348,
+          "end": 564,
+          "separator_after": " "
+        },
+        {
+          "english": "Collective worldviews allow members of a small world to become conscious of what they should know.",
+          "zh_tw": "集體世界觀讓小世界的成員意識到自己應該知道哪些事。",
+          "start": 565,
+          "end": 663,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 112,
+      "question": "2",
+      "page": 1,
+      "english": "The United Nations' Sustainable Development Goals (SDG) indicators are primarily based on traditional data from official sources such as government agencies and international organizations. However, with the rise of non-traditional data, such as data collected from citizen, there is potential for these sources to contribute to high-resolution spatial and temporal data. Citizen science specifically can provide valuable contributions to the SDG reporting process at a global level, particularly for indicators where data and methodologies are still being developed. However, work still needs to be done to establish a trusted environment where citizen-science data can be accepted as credible inputs at the national level.",
+      "zh_tw": "聯合國永續發展目標（SDG）的指標，主要依據政府機關及國際組織等官方來源的傳統資料。然而，隨著公民蒐集資料等非傳統資料興起，這些來源有機會提供高解析度的空間與時間資料。公民科學尤其能為全球層級的永續發展目標報告流程帶來有價值的貢獻，特別是在資料與方法仍在發展中的指標上。不過，仍需持續努力建立可信任的環境，讓公民科學資料能在國家層級被接受為可信的資料輸入。",
+      "id": "ntu-lis-112-01f45a2a4b3b-translation-2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+      "source_sha256": "01f45a2a4b3ba81624427f06b93bd3856e5bc4531a1192aaa95a41bf137b2880",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "The United Nations' Sustainable Development Goals (SDG) indicators are primarily based on traditional data from official sources such as government agencies and international organizations.",
+          "zh_tw": "聯合國永續發展目標（SDG）的指標，主要依據政府機關及國際組織等官方來源的傳統資料。",
+          "start": 0,
+          "end": 189,
+          "separator_after": " "
+        },
+        {
+          "english": "However, with the rise of non-traditional data, such as data collected from citizen, there is potential for these sources to contribute to high-resolution spatial and temporal data.",
+          "zh_tw": "然而，隨著公民蒐集資料等非傳統資料興起，這些來源有機會提供高解析度的空間與時間資料。",
+          "start": 190,
+          "end": 371,
+          "separator_after": " "
+        },
+        {
+          "english": "Citizen science specifically can provide valuable contributions to the SDG reporting process at a global level, particularly for indicators where data and methodologies are still being developed.",
+          "zh_tw": "公民科學尤其能為全球層級的永續發展目標報告流程帶來有價值的貢獻，特別是在資料與方法仍在發展中的指標上。",
+          "start": 372,
+          "end": 567,
+          "separator_after": " "
+        },
+        {
+          "english": "However, work still needs to be done to establish a trusted environment where citizen-science data can be accepted as credible inputs at the national level.",
+          "zh_tw": "不過，仍需持續努力建立可信任的環境，讓公民科學資料能在國家層級被接受為可信的資料輸入。",
+          "start": 568,
+          "end": 724,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 112,
+      "question": "3",
+      "page": 1,
+      "english": "Prior research has shown that socioeconomic status impacts levels of people's information-seeking activities. Low socioeconomic status populations suffer from the lack of training and educational support to building the necessary skills to make efficient use of digital access and tools, highlighting that simply making the Internet more accessible may not level the playing field. In the context of the COVID-19 pandemic, where digital access and resources became more critical due to continuing at-home isolation and restrictions on in-person activities, communities characterized by low socioeconomic status may experience the compounding effects of multiple potential disadvantages that may manifest as disparate reactions to the pandemic in digital engagement.",
+      "zh_tw": "過去研究顯示，社經地位會影響人們資訊尋求活動的程度。低社經地位群體缺乏訓練及教育支持，難以培養有效運用數位取用機會與工具所需的技能，這顯示單純提高網路可及性未必能使競爭條件平等。在 COVID-19 疫情期間，持續居家隔離及實體活動限制，使數位取用與資源更為重要。低社經地位社群可能承受多種潛在劣勢的累積影響，而這些影響可能表現為面對疫情時，在數位參與上的不同反應。",
+      "id": "ntu-lis-112-01f45a2a4b3b-translation-3",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=93561&iDP=71709&iS=5794",
+      "source_sha256": "01f45a2a4b3ba81624427f06b93bd3856e5bc4531a1192aaa95a41bf137b2880",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Prior research has shown that socioeconomic status impacts levels of people's information-seeking activities.",
+          "zh_tw": "過去研究顯示，社經地位會影響人們資訊尋求活動的程度。",
+          "start": 0,
+          "end": 109,
+          "separator_after": " "
+        },
+        {
+          "english": "Low socioeconomic status populations suffer from the lack of training and educational support to building the necessary skills to make efficient use of digital access and tools, highlighting that simply making the Internet more accessible may not level the playing field.",
+          "zh_tw": "低社經地位群體缺乏訓練及教育支持，難以培養有效運用數位取用機會與工具所需的技能，這顯示單純提高網路可及性未必能使競爭條件平等。",
+          "start": 110,
+          "end": 381,
+          "separator_after": " "
+        },
+        {
+          "english": "In the context of the COVID-19 pandemic, where digital access and resources became more critical due to continuing at-home isolation and restrictions on in-person activities, communities characterized by low socioeconomic status may experience the compounding effects of multiple potential disadvantages that may manifest as disparate reactions to the pandemic in digital engagement.",
+          "zh_tw": "在 COVID-19 疫情期間，持續居家隔離及實體活動限制，使數位取用與資源更為重要；低社經地位社群可能承受多種潛在劣勢的累積影響，而這些影響可能表現為面對疫情時，在數位參與上的不同反應。",
+          "start": 382,
+          "end": 765,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 111,
+      "question": "2.1",
+      "page": 1,
+      "english": "...Many IR systems use relevance ranking, whereby the output is sorted by means of measures that attempt to rank the importance of documents, usually based on factors related to frequency of occurrence of terms in both the query and the document... Systems that use relevance ranking tend to have larger but sorted retrieved outputs, and users can decide how far down to look. Since the more relevant documents tend to be ranked higher, this approach gives users a chance to determine whether they want lower recall and higher precision (just look at the top of the list) or higher recall and lower precision (keep looking further down the list).",
+      "zh_tw": "……許多資訊檢索系統採用相關性排序，以衡量指標來排列文件的重要程度，通常依據查詢與文件中詞彙出現頻率等因素……採用相關性排序的系統往往產生較多、但已排序的檢索結果，使用者可以自行決定要往下查看多少。由於較相關的文件通常排在前面，使用者可選擇較低的回現率與較高的精確率（只看清單最前面的結果），或較高的回現率與較低的精確率（繼續往下查看清單）。",
+      "id": "ntu-lis-111-026fb3b7c8f2-translation-2.1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "...Many IR systems use relevance ranking, whereby the output is sorted by means of measures that attempt to rank the importance of documents, usually based on factors related to frequency of occurrence of terms in both the query and the document...",
+          "zh_tw": "……許多資訊檢索系統採用相關性排序，以衡量指標來排列文件的重要程度，通常依據查詢與文件中詞彙出現頻率等因素……",
+          "start": 0,
+          "end": 248,
+          "separator_after": " "
+        },
+        {
+          "english": "Systems that use relevance ranking tend to have larger but sorted retrieved outputs, and users can decide how far down to look.",
+          "zh_tw": "採用相關性排序的系統往往產生較多、但已排序的檢索結果，使用者可以自行決定要往下查看多少。",
+          "start": 249,
+          "end": 376,
+          "separator_after": " "
+        },
+        {
+          "english": "Since the more relevant documents tend to be ranked higher, this approach gives users a chance to determine whether they want lower recall and higher precision (just look at the top of the list) or higher recall and lower precision (keep looking further down the list).",
+          "zh_tw": "由於較相關的文件通常排在前面，使用者可選擇較低的回現率與較高的精確率（只看清單最前面的結果），或較高的回現率與較低的精確率（繼續往下查看清單）。",
+          "start": 377,
+          "end": 646,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 111,
+      "question": "2.2",
+      "page": 1,
+      "english": "Interdisciplinarity generally refers to the appropriate combination of knowledge from many different specialties -- especially as a means to shed new light on an actual problem. In notably effective efforts, the combination of disciplines adds value: the total is more interesting than the sum of the individual contributions or parts. Interdisciplinary and problem-oriented inquiry, again when effectively and successfully executed, consistently considers a variety of intellectual and practical questions not normally asked in ordinary disciplinary pursuits...",
+      "zh_tw": "跨學科性通常指適當結合多種不同專業領域的知識，尤其用以對實際問題提出新的理解。在成效顯著的實踐中，學科結合能帶來附加價值：整體比個別貢獻或部分的總和更有意義。跨學科且以問題為導向的探究，若能有效並成功地執行，便會持續考量一般單一學科研究通常不會提出的各種知識與實務問題……",
+      "id": "ntu-lis-111-026fb3b7c8f2-translation-2.2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Interdisciplinarity generally refers to the appropriate combination of knowledge from many different specialties -- especially as a means to shed new light on an actual problem.",
+          "zh_tw": "跨學科性通常指適當結合多種不同專業領域的知識，尤其用以對實際問題提出新的理解。",
+          "start": 0,
+          "end": 177,
+          "separator_after": " "
+        },
+        {
+          "english": "In notably effective efforts, the combination of disciplines adds value: the total is more interesting than the sum of the individual contributions or parts.",
+          "zh_tw": "在成效顯著的實踐中，學科結合能帶來附加價值：整體比個別貢獻或部分的總和更有意義。",
+          "start": 178,
+          "end": 335,
+          "separator_after": " "
+        },
+        {
+          "english": "Interdisciplinary and problem-oriented inquiry, again when effectively and successfully executed, consistently considers a variety of intellectual and practical questions not normally asked in ordinary disciplinary pursuits...",
+          "zh_tw": "跨學科且以問題為導向的探究，若能有效並成功地執行，便會持續考量一般單一學科研究通常不會提出的各種知識與實務問題……",
+          "start": 336,
+          "end": 562,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 110,
+      "question": "II-1",
+      "page": 1,
+      "english": "Intellectual freedom can exist only where two essential conditions are met: first, that all individuals have the right to hold any belief on any subject and to convey their ideas in any form they deem appropriate, and second, that society makes an equal commitment to the right of unrestricted access to information and ideas regardless of the communication medium used, the content of work, and the viewpoints of both the author and the receiver of information.",
+      "zh_tw": "唯有滿足兩項必要條件，知識自由才能存在：第一，每個人都有權對任何議題持有任何信念，並以自己認為適當的形式傳達想法；第二，社會也同等承諾保障不受限制地取用資訊與思想的權利，不論所使用的傳播媒介、作品內容，以及作者與資訊接收者雙方的觀點為何。",
+      "id": "ntu-lis-110-949e05468173-translation-II-1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Intellectual freedom can exist only where two essential conditions are met: first, that all individuals have the right to hold any belief on any subject and to convey their ideas in any form they deem appropriate, and second, that society makes an equal commitment to the right of unrestricted access to information and ideas regardless of the communication medium used, the content of work, and the viewpoints of both the author and the receiver of information.",
+          "zh_tw": "唯有滿足兩項必要條件，知識自由才能存在：第一，每個人都有權對任何議題持有任何信念，並以自己認為適當的形式傳達想法；第二，社會也同等承諾保障不受限制地取用資訊與思想的權利，不論所使用的傳播媒介、作品內容，以及作者與資訊接收者雙方的觀點為何。",
+          "start": 0,
+          "end": 462,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 110,
+      "question": "II-2",
+      "page": 1,
+      "english": "Information resources reflect their creators' expertise and credibility, and are evaluated based on the information need and the context in which the information will be used. Authority is constructed in that various communities may recognize different types of authority. It is contextual in that the information need may help to determine the level of authority required.",
+      "zh_tw": "資訊資源反映創作者的專業知識與可信度，應依資訊需求及資訊使用的情境加以評估。權威是建構而成的，因為不同社群可能認可不同類型的權威。權威也具有情境性，因為資訊需求有助於判定所需的權威程度。",
+      "id": "ntu-lis-110-949e05468173-translation-II-2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Information resources reflect their creators' expertise and credibility, and are evaluated based on the information need and the context in which the information will be used.",
+          "zh_tw": "資訊資源反映創作者的專業知識與可信度，應依資訊需求及資訊使用的情境加以評估。",
+          "start": 0,
+          "end": 175,
+          "separator_after": " "
+        },
+        {
+          "english": "Authority is constructed in that various communities may recognize different types of authority.",
+          "zh_tw": "權威是建構而成的，因為不同社群可能認可不同類型的權威。",
+          "start": 176,
+          "end": 272,
+          "separator_after": " "
+        },
+        {
+          "english": "It is contextual in that the information need may help to determine the level of authority required.",
+          "zh_tw": "權威也具有情境性，因為資訊需求有助於判定所需的權威程度。",
+          "start": 273,
+          "end": 373,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 110,
+      "question": "II-3",
+      "page": 1,
+      "english": "New challenges arise for researchers and practitioners as we move away from concentration on the technology of searching, and turn our attention to using information for problem solving and creativity in the workplace and daily living. The links between information behavior, information literacy and the impact of information have been explored from the user's perspective of information seeking and use and the model of the Information Search Process (ISP).",
+      "zh_tw": "當我們不再只關注搜尋技術，而將注意力轉向如何在職場及日常生活中運用資訊解決問題與發揮創意時，研究者與實務工作者便面臨新的挑戰。資訊行為、資訊素養及資訊影響之間的連結，已透過使用者在資訊尋求與使用上的觀點，以及資訊搜尋歷程（ISP）模式加以探討。",
+      "id": "ntu-lis-110-949e05468173-translation-II-3",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "New challenges arise for researchers and practitioners as we move away from concentration on the technology of searching, and turn our attention to using information for problem solving and creativity in the workplace and daily living.",
+          "zh_tw": "當我們不再只關注搜尋技術，而將注意力轉向如何在職場及日常生活中運用資訊解決問題與發揮創意時，研究者與實務工作者便面臨新的挑戰。",
+          "start": 0,
+          "end": 235,
+          "separator_after": " "
+        },
+        {
+          "english": "The links between information behavior, information literacy and the impact of information have been explored from the user's perspective of information seeking and use and the model of the Information Search Process (ISP).",
+          "zh_tw": "資訊行為、資訊素養及資訊影響之間的連結，已透過使用者在資訊尋求與使用上的觀點，以及資訊搜尋歷程（ISP）模式加以探討。",
+          "start": 236,
+          "end": 459,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 109,
+      "question": "1",
+      "page": 1,
+      "english": "Tables and graphs of quantitative information can be used for analyzing, communicating, monitoring, and planning. Tables and graphs don't just display numbers; they present them in a manner that relates them to something, such as to time or to one another, to reveal a meaningful message in context. Sometimes the quantitative relationships we display are simple associations between quantitative values and the categorical items that label them. Sometimes the relationships display direct associations between different sets of quantitative values. While categorical items that we used in tables and graphs to label corresponding measures can relate to one another in a nominal, ordinal, interval, or hierarchical form, the quantitative values can exhibit relationships in ranking, ratio, or correlation.",
+      "zh_tw": "量化資訊的表格與圖表可用於分析、溝通、監測及規劃。它們不只是呈現數字，而是將數字與時間或彼此連結，讓資料在脈絡中傳達有意義的訊息。有時所呈現的量化關係，是數值與標示它們的類別項目之間的簡單關聯；有時則是不同組數值之間的直接關聯。在表格與圖表中，用來標示相應測量值的類別項目，可以具有名目、次序、等距或階層形式的關係；量化數值則可以呈現排名、比率或相關關係。",
+      "id": "ntu-lis-109-3676e44c0571-translation-1",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+      "source_sha256": "3676e44c05712a5d3137955b6b02679888f037ef93d8885b8713a614832a9d6f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Tables and graphs of quantitative information can be used for analyzing, communicating, monitoring, and planning.",
+          "zh_tw": "量化資訊的表格與圖表可用於分析、溝通、監測及規劃。",
+          "start": 0,
+          "end": 113,
+          "separator_after": " "
+        },
+        {
+          "english": "Tables and graphs don't just display numbers; they present them in a manner that relates them to something, such as to time or to one another, to reveal a meaningful message in context.",
+          "zh_tw": "表格與圖表不只是呈現數字，而是將數字與時間或彼此連結，讓資料在脈絡中傳達有意義的訊息。",
+          "start": 114,
+          "end": 299,
+          "separator_after": " "
+        },
+        {
+          "english": "Sometimes the quantitative relationships we display are simple associations between quantitative values and the categorical items that label them.",
+          "zh_tw": "有時所呈現的量化關係，是數值與標示它們的類別項目之間的簡單關聯。",
+          "start": 300,
+          "end": 446,
+          "separator_after": " "
+        },
+        {
+          "english": "Sometimes the relationships display direct associations between different sets of quantitative values.",
+          "zh_tw": "有時呈現的則是不同組數值之間的直接關聯。",
+          "start": 447,
+          "end": 549,
+          "separator_after": " "
+        },
+        {
+          "english": "While categorical items that we used in tables and graphs to label corresponding measures can relate to one another in a nominal, ordinal, interval, or hierarchical form, the quantitative values can exhibit relationships in ranking, ratio, or correlation.",
+          "zh_tw": "在表格與圖表中，用來標示相應測量值的類別項目，可以具有名目、次序、等距或階層形式的關係；量化數值則可以呈現排名、比率或相關關係。",
+          "start": 550,
+          "end": 805,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 109,
+      "question": "2",
+      "page": 1,
+      "english": "The possibilities for misunderstanding a survey question are endless, and no researcher is immune. Frequently, researchers ask respondents for a single answer to a question that actually has multiple chunks. For example, \"The United States should abandon its space program and spend the money on domestic programs.\" Although many people would unequivocally agree with the statement and others would unequivocally disagree, still others would be unable to answer. Some would want to abandon the space program and give the money back to the taxpayers. Others would want to continue the space program but also put more money into domestic programs. As a general rule, whenever the word and appears in a question or questionnaire statement, check whether a researcher is asking a double-barreled question.",
+      "zh_tw": "調查題目可能遭到誤解的情況不勝枚舉，沒有研究者能完全避免。研究者常要求受訪者對實際包含多個部分的題目給出單一答案。例如：「美國應放棄太空計畫，將經費用於國內計畫。」許多人可能明確同意或反對，但也有人無法作答。有些人希望放棄太空計畫，卻想將錢退還納稅人；另一些人希望繼續太空計畫，同時增加國內計畫經費。一般而言，當題目或問卷敘述出現 and（以及）時，就應檢查研究者是否提出了雙重問題。",
+      "id": "ntu-lis-109-3676e44c0571-translation-2",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+      "source_sha256": "3676e44c05712a5d3137955b6b02679888f037ef93d8885b8713a614832a9d6f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "The possibilities for misunderstanding a survey question are endless, and no researcher is immune.",
+          "zh_tw": "調查題目可能遭到誤解的情況不勝枚舉，沒有研究者能完全避免。",
+          "start": 0,
+          "end": 98,
+          "separator_after": " "
+        },
+        {
+          "english": "Frequently, researchers ask respondents for a single answer to a question that actually has multiple chunks.",
+          "zh_tw": "研究者常要求受訪者對實際包含多個部分的題目給出單一答案。",
+          "start": 99,
+          "end": 207,
+          "separator_after": " "
+        },
+        {
+          "english": "For example, \"The United States should abandon its space program and spend the money on domestic programs.\"",
+          "zh_tw": "例如：「美國應放棄太空計畫，將經費用於國內計畫。」",
+          "start": 208,
+          "end": 315,
+          "separator_after": " "
+        },
+        {
+          "english": "Although many people would unequivocally agree with the statement and others would unequivocally disagree, still others would be unable to answer.",
+          "zh_tw": "許多人可能明確同意這項敘述，也有人明確反對，但仍有人無法作答。",
+          "start": 316,
+          "end": 462,
+          "separator_after": " "
+        },
+        {
+          "english": "Some would want to abandon the space program and give the money back to the taxpayers.",
+          "zh_tw": "有些人希望放棄太空計畫，卻想將錢退還納稅人。",
+          "start": 463,
+          "end": 549,
+          "separator_after": " "
+        },
+        {
+          "english": "Others would want to continue the space program but also put more money into domestic programs.",
+          "zh_tw": "另一些人希望繼續太空計畫，同時增加國內計畫經費。",
+          "start": 550,
+          "end": 645,
+          "separator_after": " "
+        },
+        {
+          "english": "As a general rule, whenever the word and appears in a question or questionnaire statement, check whether a researcher is asking a double-barreled question.",
+          "zh_tw": "一般而言，當題目或問卷敘述出現 and（以及）時，就應檢查研究者是否提出了雙重問題。",
+          "start": 646,
+          "end": 801,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 109,
+      "question": "3",
+      "page": 1,
+      "english": "Metadata is commonly described as 'data about data.' While easy to remember, this definition is far too vague to be useful. According to the National Information Standards Organization (NISO) in the United States, metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. It facilitates organization, indexing, discovery, access, analysis, and use of print and online resources. It also influences search engine results and rankings. However, recent questions about metadata and potential data breaches become even more concerning when considered in terms of enabling data to be shared across social media platforms. There are concerns this may make data less, rather than more, secure.",
+      "zh_tw": "詮釋資料常被描述為「關於資料的資料」。這個定義雖然容易記住，卻過於模糊，難以實際運用。依美國國家資訊標準組織（NISO）的說法，詮釋資料是用來描述、解釋、定位資訊資源，或使其更容易被檢索、使用及管理的結構化資訊。它有助於紙本及線上資源的組織、索引、發現、取用、分析與使用，也會影響搜尋引擎的結果及排序。然而，若考慮資料能跨社群媒體平臺分享，近來關於詮釋資料與潛在資料外洩的疑慮便更加令人擔心。人們憂慮這可能降低資料安全性，而非提高它。",
+      "id": "ntu-lis-109-3676e44c0571-translation-3",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+      "source_sha256": "3676e44c05712a5d3137955b6b02679888f037ef93d8885b8713a614832a9d6f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "Metadata is commonly described as 'data about data.'",
+          "zh_tw": "詮釋資料常被描述為「關於資料的資料」。",
+          "start": 0,
+          "end": 52,
+          "separator_after": " "
+        },
+        {
+          "english": "While easy to remember, this definition is far too vague to be useful.",
+          "zh_tw": "這個定義雖然容易記住，卻過於模糊，難以實際運用。",
+          "start": 53,
+          "end": 123,
+          "separator_after": " "
+        },
+        {
+          "english": "According to the National Information Standards Organization (NISO) in the United States, metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource.",
+          "zh_tw": "依美國國家資訊標準組織（NISO）的說法，詮釋資料是用來描述、解釋、定位資訊資源，或使其更容易被檢索、使用及管理的結構化資訊。",
+          "start": 124,
+          "end": 365,
+          "separator_after": " "
+        },
+        {
+          "english": "It facilitates organization, indexing, discovery, access, analysis, and use of print and online resources.",
+          "zh_tw": "它有助於紙本及線上資源的組織、索引、發現、取用、分析與使用。",
+          "start": 366,
+          "end": 472,
+          "separator_after": " "
+        },
+        {
+          "english": "It also influences search engine results and rankings.",
+          "zh_tw": "它也會影響搜尋引擎的結果及排序。",
+          "start": 473,
+          "end": 527,
+          "separator_after": " "
+        },
+        {
+          "english": "However, recent questions about metadata and potential data breaches become even more concerning when considered in terms of enabling data to be shared across social media platforms.",
+          "zh_tw": "然而，若考慮資料能跨社群媒體平臺分享，近來關於詮釋資料與潛在資料外洩的疑慮便更加令人擔心。",
+          "start": 528,
+          "end": 710,
+          "separator_after": " "
+        },
+        {
+          "english": "There are concerns this may make data less, rather than more, secure.",
+          "zh_tw": "人們憂慮這可能降低資料安全性，而非提高它。",
+          "start": 711,
+          "end": 780,
+          "separator_after": ""
+        }
+      ]
+    },
+    {
+      "year": 109,
+      "question": "4",
+      "page": 1,
+      "english": "During the design of the Web site, information architecture (IA) is concerned with creating organizational and navigational schemes that allow users to move through site content efficiently and effectively. IA on the Web is closely related to the field of information retrieval: the design of systems that enable users to find information easily. However, Web site architectures are often called on to do more than just help people find things; in many cases, they have to educate, inform, or persuade users. Most commonly, IA problems require creating categorization schemes that will correspond to our own objectives for the site, the user needs we intend to meet, and the content that will be incorporated in the site. Such a categorization scheme can be designed in two ways: the top-down design (creating the architecture directly from an understanding of strategic considerations), or from the bottom-up design, i.e., based on an analysis of the content and functional requirements.",
+      "zh_tw": "在網站設計中，資訊架構（IA）關注如何建立組織與導覽架構，讓使用者有效且有效率地瀏覽網站內容。網路資訊架構與資訊檢索領域密切相關，後者設計讓使用者容易找到資訊的系統。然而，網站架構往往不只要協助找尋資訊，還需要教育、告知或說服使用者。資訊架構問題通常需要建立分類架構，使其符合網站目標、預期滿足的使用者需求，以及將納入網站的內容。分類架構可透過兩種方式設計：由上而下，直接依據對策略考量的理解建立架構；或由下而上，依據內容與功能需求的分析建立架構。",
+      "id": "ntu-lis-109-3676e44c0571-translation-4",
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=87618&iDP=60017&iS=5794",
+      "source_sha256": "3676e44c05712a5d3137955b6b02679888f037ef93d8885b8713a614832a9d6f",
+      "extraction_method": "ocr_visual_review",
+      "review_status": "visually_verified",
+      "translation_status": "assistant_translation_reviewed",
+      "normalization_note": "Line wrapping removed; typographic quotes/dashes normalized for keyboard entry. Source wording retained.",
+      "question_type": "english_to_chinese",
+      "sentences": [
+        {
+          "english": "During the design of the Web site, information architecture (IA) is concerned with creating organizational and navigational schemes that allow users to move through site content efficiently and effectively.",
+          "zh_tw": "在網站設計中，資訊架構（IA）關注如何建立組織與導覽架構，讓使用者有效且有效率地瀏覽網站內容。",
+          "start": 0,
+          "end": 206,
+          "separator_after": " "
+        },
+        {
+          "english": "IA on the Web is closely related to the field of information retrieval: the design of systems that enable users to find information easily.",
+          "zh_tw": "網路資訊架構與資訊檢索領域密切相關，後者設計讓使用者容易找到資訊的系統。",
+          "start": 207,
+          "end": 346,
+          "separator_after": " "
+        },
+        {
+          "english": "However, Web site architectures are often called on to do more than just help people find things; in many cases, they have to educate, inform, or persuade users.",
+          "zh_tw": "然而，網站架構往往不只要協助找尋資訊，還需要教育、告知或說服使用者。",
+          "start": 347,
+          "end": 508,
+          "separator_after": " "
+        },
+        {
+          "english": "Most commonly, IA problems require creating categorization schemes that will correspond to our own objectives for the site, the user needs we intend to meet, and the content that will be incorporated in the site.",
+          "zh_tw": "資訊架構問題通常需要建立分類架構，使其符合網站目標、預期滿足的使用者需求，以及將納入網站的內容。",
+          "start": 509,
+          "end": 721,
+          "separator_after": " "
+        },
+        {
+          "english": "Such a categorization scheme can be designed in two ways: the top-down design (creating the architecture directly from an understanding of strategic considerations), or from the bottom-up design, i.e., based on an analysis of the content and functional requirements.",
+          "zh_tw": "分類架構可透過兩種方式設計：由上而下，直接依據對策略考量的理解建立架構；或由下而上，依據內容與功能需求的分析建立架構。",
+          "start": 722,
+          "end": 988,
+          "separator_after": ""
+        }
+      ]
+    }
+  ],
+  "term_questions": [
+    {
+      "question": "1.1",
+      "english": "Readers' advisory",
+      "vocabulary_key": "Readers' advisory",
+      "page": 1,
+      "year": 113,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3"
+    },
+    {
+      "question": "1.2",
+      "english": "Operational definition",
+      "vocabulary_key": "operational definition",
+      "page": 1,
+      "year": 113,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3"
+    },
+    {
+      "question": "1.3",
+      "english": "Subject analysis",
+      "vocabulary_key": "subject analysis",
+      "page": 1,
+      "year": 113,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3"
+    },
+    {
+      "question": "1.4",
+      "english": "Relevance",
+      "vocabulary_key": "relevance",
+      "page": 1,
+      "year": 113,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=96852&iDP=65038&iS=5794",
+      "source_sha256": "8bcd750de22e7818f3a615bfe1d6ba2ad7452f7ede7635558d128a035de26ca3"
+    },
+    {
+      "question": "1.1",
+      "english": "The \"FAIR\" principles of research data curation",
+      "vocabulary_key": "FAIR principles",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.2",
+      "english": "Bibliotherapy",
+      "vocabulary_key": "bibliotherapy",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.3",
+      "english": "Bibliographic coupling",
+      "vocabulary_key": "bibliographic coupling",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.4",
+      "english": "Discounted Cumulative Gain (DCG)",
+      "vocabulary_key": "Discounted Cumulative Gain (DCG)",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.5",
+      "english": "Information Search Process (ISP)",
+      "vocabulary_key": "Information Search Process (ISP)",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.6",
+      "english": "Faceted analysis",
+      "vocabulary_key": "faceted analysis",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "1.7",
+      "english": "Information literacy",
+      "vocabulary_key": "information literacy",
+      "page": 1,
+      "year": 111,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90921&iDP=69354&iS=5794",
+      "source_sha256": "026fb3b7c8f2b023aaa2845adbd3c469a520f57db9ebadd2e44ec18bdb5562e8"
+    },
+    {
+      "question": "I-1",
+      "english": "ISBN",
+      "vocabulary_key": "ISBN",
+      "page": 1,
+      "year": 110,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69"
+    },
+    {
+      "question": "I-2",
+      "english": "PDA (acquisition related term)",
+      "vocabulary_key": "PDA",
+      "page": 1,
+      "year": 110,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69"
+    },
+    {
+      "question": "I-3",
+      "english": "Metadata",
+      "vocabulary_key": "metadata",
+      "page": 1,
+      "year": 110,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69"
+    },
+    {
+      "question": "I-4",
+      "english": "Data curation",
+      "vocabulary_key": "data curation",
+      "page": 1,
+      "year": 110,
+      "source_pdf": "https://master.get.com.tw/exam/Download.ashx?iP=90673&iDP=58684&iS=5794",
+      "source_sha256": "949e054681734ed0e1a7c1d2599014e014aee69dac20283d3b3fa2adf6fcdc69"
+    }
+  ]
+}
