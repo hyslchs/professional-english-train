@@ -1,22 +1,18 @@
 import {useState} from 'react';
 import type {Word} from '../main';
+import type {Marks} from '../studyBackup';
 
-export function VocabularyList({words}: {words: Word[]}) {
+export function VocabularyList({words,marks,onMarksChange}: {words: Word[]; marks: Marks; onMarksChange: (marks: Marks) => void}) {
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState('all');
-  const [marks, setMarks] = useState<Record<string, string>>(() => {
-    try { return JSON.parse(localStorage.getItem('lis-marks') || '{}') || {}; }
-    catch { return {}; }
-  });
   const known = words.filter(word => marks[word.term] === 'known').length;
   const query = search.trim().toLocaleLowerCase();
   const visible = words.filter(word =>
     `${word.term} ${word.zh_tw} ${word.definition_zh_tw}`.toLocaleLowerCase().includes(query)
     && (filter === 'all' || (marks[word.term] === 'known' ? 'known' : 'learning') === filter));
   function toggle(term: string) {
-    const next = {...marks, [term]: marks[term] === 'known' ? 'learning' : 'known'};
-    setMarks(next);
-    localStorage.setItem('lis-marks', JSON.stringify(next));
+    const next: Marks = {...marks, [term]: marks[term] === 'known' ? 'learning' : 'known'};
+    onMarksChange(next);
   }
   return <section className="panel vocabulary-list">
     <h2>總詞彙表</h2>
@@ -39,3 +35,4 @@ export function VocabularyList({words}: {words: Word[]}) {
     {!visible.length && <p className="hint">沒有符合條件的詞彙，試試其他搜尋或篩選。</p>}
   </section>;
 }
+
