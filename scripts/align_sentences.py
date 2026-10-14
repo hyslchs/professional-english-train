@@ -42,6 +42,8 @@ def main():
         article.setdefault('question_type','english_to_chinese')
         try:article['sentences']=align(article['english'],translations[key],article.get('reading_segments'))
         except Exception as e:raise ValueError(f'{key}: {e}') from e
+    from build_context_glosses import annotate_articles
+    annotate_articles(exams['articles'])
     save(path,exams)
     print(f"Aligned {sum(len(a['sentences']) for a in exams['articles'])} sentences in {len(exams['articles'])} articles")
 if __name__=='__main__':main()

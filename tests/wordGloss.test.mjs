@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import ts from 'typescript';
+const source = fs.readFileSync(new URL('../src/wordGloss.ts', import.meta.url), 'utf8');
+const compiled = ts.transpileModule(source, {compilerOptions: {module: ts.ModuleKind.ESNext}}).outputText;
+const {findWordGloss} = await import('data:text/javascript;base64,' + Buffer.from(compiled).toString('base64'));
+const entries = [{term: 'information', zh_tw: '資訊'}, {term: 'information literacy', zh_tw: '資訊素養'}, {term: 'access', zh_tw: '存取'}];
+assert.equal(findWordGloss('Information literacy matters.', 0, 11, entries).meaning, '資訊素養');
+assert.equal(findWordGloss('Information literacy matters.', 12, 20, entries).term, 'Information literacy');
+assert.equal(findWordGloss('accessible', 0, 10, entries), null);
+assert.equal(findWordGloss('access access', 7, 13, entries, {'7': '取得機會'}).meaning, '取得機會');
+assert.equal(findWordGloss('access access', 0, 6, entries, {'7': '取得機會'}).contextual, false);
+assert.equal(findWordGloss('unknown', 0, 7, entries), null);
+console.log('Passed: longest phrase, case, boundaries, occurrence-specific meanings and missing words');

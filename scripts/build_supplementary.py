@@ -170,6 +170,8 @@ def main():
             assert term.split('｜')[0].casefold() in english.casefold(), (entry['slug'], term)
         articles.append(article)
     assert len({a['id'] for a in articles}) == len(articles)
+    from build_context_glosses import annotate_articles
+    annotate_articles(articles)
     data = {'articles': articles, 'description': f'{len(articles)}篇依官方來源改寫的短篇中翻英延伸練習'}
     for folder in ['data/processed', 'public/data']:
         path = ROOT / folder / 'supplementary.json'
