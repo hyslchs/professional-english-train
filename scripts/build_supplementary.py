@@ -6,6 +6,7 @@ Source locations and supporting claims were checked on 2026-10-12.
 import json
 from pathlib import Path
 from align_sentences import align
+from ai_practice import AI_PASSAGES
 
 ROOT = Path(__file__).resolve().parents[1]
 PASSAGES = [
@@ -149,14 +150,14 @@ PASSAGES = [
 
 def main():
     articles = []
-    for i, entry in enumerate(PASSAGES, 1):
+    for i, entry in enumerate(PASSAGES + AI_PASSAGES, 1):
         metadata = {k: v for k, v in entry.items() if k != 'pairs'}
         english = ' '.join(en for zh, en in entry['pairs'])
         chinese = [zh for zh, en in entry['pairs']]
         segments = [en for zh, en in entry['pairs']]
         article = {**metadata, 'id': 'supplementary-' + entry['slug'], 'year': None,
                    'question': str(i), 'question_type': 'supplementary',
-                   'content_kind': 'source_based_adaptation', 'source_checked_on': '2026-10-12',
+                   'content_kind': 'source_based_adaptation', 'source_checked_on': entry.get('source_checked_on', '2026-10-12'),
                    'english': english, 'zh_tw': ''.join(chinese),
                    'sentences': align(english, chinese, segments),
                    'word_count': len(english.split()),
@@ -168,13 +169,13 @@ def main():
         for term in article['keywords']:
             assert term.split('｜')[0].casefold() in english.casefold(), (entry['slug'], term)
         articles.append(article)
-    assert len({a['source_url'] for a in articles}) == 8
-    data = {'articles': articles, 'description': '8篇依官方來源改寫的短篇中翻英延伸練習'}
+    assert len({a['id'] for a in articles}) == len(articles)
+    data = {'articles': articles, 'description': f'{len(articles)}篇依官方來源改寫的短篇中翻英延伸練習'}
     for folder in ['data/processed', 'public/data']:
         path = ROOT / folder / 'supplementary.json'
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"Built {len(articles)} source-based passages, {sum(a['word_count'] for a in articles)} words, 40 aligned reading units.")
+    print(f"Built {len(articles)} source-based passages, {sum(a['word_count'] for a in articles)} words, {sum(len(a['sentences']) for a in articles)} aligned reading units.")
 
 if __name__ == '__main__':
     main()

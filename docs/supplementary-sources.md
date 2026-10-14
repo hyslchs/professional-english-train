@@ -24,3 +24,18 @@
 - 第5天：回到114年第2題、115年B題；只看中文限時翻譯，再核對。
 
 每天每篇英打一次即可。打完選2句遮住英文，先回想專有名詞，再自己寫整句；晚上重測卡住的詞。英打主要練熟悉度，主動回想才直接對應中翻英產出。可使用畫面「重點詞彙、句型與來源範圍」挑選片語。
+
+
+## AI 與圖書館新增主題（2026-10-14）
+
+延伸9–13為依以下專業組織來源撰寫的原創學習改寫，非原文節錄、官方翻譯或考題預測。每篇5個雙語短段，附詞彙及句型。著作權篇描述IFLA政策主張，不表示各地法律均已允許相關使用。
+
+| 編號 | 主題 | 來源與範圍 |
+|---|---|---|
+| 9 | 生成式AI、LLMs與RAG | [ACRL — AI Competencies for Academic Library Workers](https://www.ala.org/acrl/standards/ai)：2.1技術概念、4.3提示策略。 |
+| 10 | AI素養、幻覺與學術誠信 | [ACRL Instruction Section — Tips and Trends](https://acrl.ala.org/IS/tips-and-trends-ai-developments-and-resources-for-academic-librarians/)：Overview、Potential Hurdles、Conclusion；採概念與教學原則，不引用舊使用率。 |
+| 11 | AI隱私與人工監督 | [ALA — Guidance on the Use of Artificial Intelligence in Libraries](https://www.ala.org/tools/standards-and-guidelines/guidance-use-artificial-intelligence-libraries)：Privacy與Human Review。 |
+| 12 | 偏誤、數位落差與館員角色 | [IFLA AI SIG — Developing a library strategic response](https://www.ifla.org/g/ai/developing-a-library-strategic-response-to-artificial-intelligence/)：Section 3、Strategy 3；此為工作文件，非強制標準。 |
+| 13 | 著作權與文字資料探勘 | [IFLA — Statement on Copyright and Artificial Intelligence新聞說明](https://www.ifla.org/news/realising-potential-supporting-users-ifla-statement-on-copyright-and-artificial-intelligence/)：2025-04-29政策倡議、資料集與授權。 |
+
+時間有限時可優先練9、10、11，熟悉generative AI、large language models、retrieval-augmented generation、AI literacy、hallucinations、human oversight、data minimization及model training。
